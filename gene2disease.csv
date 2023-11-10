@@ -1,0 +1,5964 @@
+gene,disease
+CDH1,gastric cancer
+IL1RN,gastric cancer
+KRAS,gastric cancer
+TP53,gastric cancer
+CTNNA1,gastric cancer
+APC,gastric cancer
+MUTYH,gastric cancer
+CHEK2,gastric cancer
+EGFR,gastric cancer
+MYC,gastric cancer
+MAP3K6,gastric cancer
+CDH2,gastric cancer
+HOTAIR,gastric cancer
+ZNF667-AS1,gastric cancer
+CCAT1,gastric cancer
+TRAP1,gastric cancer
+EBI3,gastric cancer
+CDK4,gastric cancer
+MSLN,gastric cancer
+CDKN1A,gastric cancer
+CDKN1B,gastric cancer
+CDKN2A,gastric cancer
+CDKN2D,gastric cancer
+CNPY2,gastric cancer
+DLC1,gastric cancer
+FST,gastric cancer
+NOP56,gastric cancer
+ARL6IP5,gastric cancer
+CCT7,gastric cancer
+CTSC,gastric cancer
+WIF1,gastric cancer
+CKB,gastric cancer
+LRRC3B,gastric cancer
+CLCN3,gastric cancer
+CLN3,gastric cancer
+PLIN2,gastric cancer
+MBD3L2,gastric cancer
+DCBLD2,gastric cancer
+KLF6,gastric cancer
+CLDN3,gastric cancer
+CST1,gastric cancer
+CTNNA2,gastric cancer
+CTSL,gastric cancer
+ADRB1,gastric cancer
+ADRB2,gastric cancer
+CYP2A6,gastric cancer
+ACE,gastric cancer
+DDB1,gastric cancer
+GADD45A,gastric cancer
+DES,gastric cancer
+AFP,gastric cancer
+DNMT1,gastric cancer
+DNMT3B,gastric cancer
+DPAGT1,gastric cancer
+DPYD,gastric cancer
+HBEGF,gastric cancer
+AGTR2,gastric cancer
+TYMP,gastric cancer
+ECHS1,gastric cancer
+ECM1,gastric cancer
+EEF1A1,gastric cancer
+EEF1A2,gastric cancer
+AHR,gastric cancer
+ENO1,gastric cancer
+ERBB2,gastric cancer
+ERCC1,gastric cancer
+ERCC2,gastric cancer
+ALB,gastric cancer
+F2R,gastric cancer
+ALDH1A3,gastric cancer
+FBP1,gastric cancer
+FGFR2,gastric cancer
+FGG,gastric cancer
+FHIT,gastric cancer
+FKBP2,gastric cancer
+ALDOB,gastric cancer
+FAM168A,gastric cancer
+BOP1,gastric cancer
+ALOX5,gastric cancer
+ATP6V0D2,gastric cancer
+GAST,gastric cancer
+FYN,gastric cancer
+PRDX5,gastric cancer
+SERBP1,gastric cancer
+ZBTB20,gastric cancer
+GREM1,gastric cancer
+ACAD8,gastric cancer
+SNX5,gastric cancer
+FILIP1,gastric cancer
+PRPF19,gastric cancer
+GLI3,gastric cancer
+MRPS18B,gastric cancer
+MRPL13,gastric cancer
+PYCARD,gastric cancer
+GSTP1,gastric cancer
+ABT1,gastric cancer
+CPSF1,gastric cancer
+ANXA5,gastric cancer
+ZNRD1,gastric cancer
+HMOX1,gastric cancer
+HNRNPL,gastric cancer
+HOXA2,gastric cancer
+HRAS,gastric cancer
+APEX1,gastric cancer
+BIRC2,gastric cancer
+HSPA8,gastric cancer
+HSPB1,gastric cancer
+BIRC5,gastric cancer
+HSPD1,gastric cancer
+APOA1,gastric cancer
+HTR1A,gastric cancer
+ICAM2,gastric cancer
+ID4,gastric cancer
+IDH3B,gastric cancer
+IGFBP3,gastric cancer
+IGFBP7,gastric cancer
+IL1B,gastric cancer
+IL6,gastric cancer
+IL6R,gastric cancer
+CXCL8,gastric cancer
+TNFRSF9,gastric cancer
+ING1,gastric cancer
+IRF1,gastric cancer
+ITGA5,gastric cancer
+JUN,gastric cancer
+AREG,gastric cancer
+KISS1,gastric cancer
+KRT8,gastric cancer
+RHOA,gastric cancer
+LGALS3,gastric cancer
+FADS1,gastric cancer
+M6PR,gastric cancer
+SMAD4,gastric cancer
+MARK1,gastric cancer
+MET,gastric cancer
+MLF1,gastric cancer
+KMT2A,gastric cancer
+MMP7,gastric cancer
+MMP10,gastric cancer
+MSX1,gastric cancer
+MT2A,gastric cancer
+MTHFR,gastric cancer
+MUC1,gastric cancer
+MUC6,gastric cancer
+MX1,gastric cancer
+NDUFA2,gastric cancer
+NDUFS1,gastric cancer
+ATM,gastric cancer
+NDUFV1,gastric cancer
+NOS3,gastric cancer
+NOTCH2,gastric cancer
+NPM1,gastric cancer
+NT5E,gastric cancer
+ALDH7A1,gastric cancer
+PA2G4,gastric cancer
+SERPINE1,gastric cancer
+SERPINB2,gastric cancer
+PAX6,gastric cancer
+COPS7A,gastric cancer
+UBXN1,gastric cancer
+ZNF593,gastric cancer
+PLCE1,gastric cancer
+GMPR2,gastric cancer
+HIKESHI,gastric cancer
+NBAS,gastric cancer
+PDHA1,gastric cancer
+POLR3K,gastric cancer
+WWOX,gastric cancer
+PGAM1,gastric cancer
+PHB,gastric cancer
+SERPINA1,gastric cancer
+PIK3CA,gastric cancer
+PLAGL1,gastric cancer
+PLAU,gastric cancer
+PTOV1,gastric cancer
+KRT20,gastric cancer
+PPARG,gastric cancer
+XAF1,gastric cancer
+PPIA,gastric cancer
+PPIC,gastric cancer
+RNF43,gastric cancer
+PPP2R1A,gastric cancer
+PTPA,gastric cancer
+PRR5-ARHGAP8,gastric cancer
+PREP,gastric cancer
+PRKAA1,gastric cancer
+PRKAB1,gastric cancer
+NAXD,gastric cancer
+CHFR,gastric cancer
+PRKCB,gastric cancer
+MAPK1,gastric cancer
+MAPK3,gastric cancer
+MAPK8,gastric cancer
+PRNP,gastric cancer
+GKN1,gastric cancer
+KLK10,gastric cancer
+EXOSC5,gastric cancer
+PTGS2,gastric cancer
+RANBP10,gastric cancer
+PTPRF,gastric cancer
+PTPRG,gastric cancer
+KMT2C,gastric cancer
+RAD23A,gastric cancer
+RARB,gastric cancer
+RARRES1,gastric cancer
+HRH4,gastric cancer
+RBP1,gastric cancer
+CCND1,gastric cancer
+RBP4,gastric cancer
+BCL2L1,gastric cancer
+RGS2,gastric cancer
+RORA,gastric cancer
+RPL13,gastric cancer
+RPL15,gastric cancer
+RPL18,gastric cancer
+RPS6,gastric cancer
+RPS15,gastric cancer
+RPS19,gastric cancer
+RPS21,gastric cancer
+RPS26,gastric cancer
+RXRB,gastric cancer
+BDNF,gastric cancer
+BID,gastric cancer
+BLVRB,gastric cancer
+MRPS11,gastric cancer
+BMP2,gastric cancer
+SLC1A2,gastric cancer
+BMP7,gastric cancer
+SNAI1,gastric cancer
+SNRPB,gastric cancer
+BNIP3,gastric cancer
+SOD2,gastric cancer
+SPRR2A,gastric cancer
+SREBF2,gastric cancer
+STAT3,gastric cancer
+TBX3,gastric cancer
+ACTC1,gastric cancer
+TFAP2C,gastric cancer
+TGFA,gastric cancer
+THBD,gastric cancer
+TIMP3,gastric cancer
+TNF,gastric cancer
+TPM3,gastric cancer
+TWIST1,gastric cancer
+TYMS,gastric cancer
+UMPS,gastric cancer
+XRCC1,gastric cancer
+XRCC3,gastric cancer
+CA1,gastric cancer
+CA2,gastric cancer
+ZNF177,gastric cancer
+FSD1,gastric cancer
+FAT4,gastric cancer
+EPHX3,gastric cancer
+PSCA,gastric cancer
+PUS1,gastric cancer
+ULBP2,gastric cancer
+TAF15,gastric cancer
+URM1,gastric cancer
+SYMPK,gastric cancer
+MIA,gastric cancer
+ARID1A,gastric cancer
+BAP1,gastric cancer
+REG4,gastric cancer
+CASP8,gastric cancer
+CASP10,gastric cancer
+ARFGAP2,gastric cancer
+ZNF559,gastric cancer
+KISS1R,gastric cancer
+SPZ1,gastric cancer
+TUBA1C,gastric cancer
+MIR22HG,gastric cancer
+ITGA8,gastric cancer
+CST7,gastric cancer
+CAV1,gastric cancer
+PLPP1,gastric cancer
+RUNX3,gastric cancer
+AKR1C3,gastric cancer
+IRS2,gastric cancer
+TNFSF9,gastric cancer
+SUCLG1,gastric cancer
+FCGBP,gastric cancer
+SELENBP1,gastric cancer
+ZNF160,gastric cancer
+SLC16A3,gastric cancer
+RRP9,gastric cancer
+AURKB,gastric cancer
+IL32,gastric cancer
+WDR46,gastric cancer
+CD44,gastric cancer
+TMEM63A,gastric cancer
+MTSS1,gastric cancer
+SCRN1,gastric cancer
+RNASEL,prostate cancer
+HOXB13,prostate cancer
+ELAC2,prostate cancer
+MSR1,prostate cancer
+CHEK2,prostate cancer
+EPHB2,prostate cancer
+HOXB13,prostate cancer
+MSMB,prostate cancer
+EHBP1,prostate cancer
+ELAC2,prostate cancer
+RNASEL,prostate cancer
+BRCA2,prostate cancer
+BRCA1,prostate cancer
+CDKN1B,prostate cancer
+MSMB,prostate cancer
+EPHB2,prostate cancer
+NBN,prostate cancer
+SRD5A2,prostate cancer
+CDH1,prostate cancer
+BCL2L11,prostate cancer
+THEG5,prostate cancer
+TSHZ1,prostate cancer
+RNU6-148P,prostate cancer
+RNU6-491P,prostate cancer
+RN7SKP114,prostate cancer
+RNU6-456P,prostate cancer
+CHD3,prostate cancer
+DNMT3B,prostate cancer
+DOCK2,prostate cancer
+TOR1A,prostate cancer
+MECOM,prostate cancer
+KDM2A,prostate cancer
+LARP4B,prostate cancer
+TTC28,prostate cancer
+B3GAT1,prostate cancer
+RASSF3,prostate cancer
+HLA-DOA,prostate cancer
+DUBR,prostate cancer
+INCENP,prostate cancer
+ITGB8,prostate cancer
+OACYLP,prostate cancer
+ARHGAP6,prostate cancer
+MBNL1,prostate cancer
+MMP14,prostate cancer
+MYO9B,prostate cancer
+ATM,prostate cancer
+PAX9,prostate cancer
+POU2F2,prostate cancer
+HAUS6,prostate cancer
+UHRF1BP1,prostate cancer
+RNF43,prostate cancer
+RNLS,prostate cancer
+MAP2K1,prostate cancer
+EMSY,prostate cancer
+KNL1,prostate cancer
+FBRSL1,prostate cancer
+BCL2,prostate cancer
+PKNOX2,prostate cancer
+RFX7,prostate cancer
+TCF4,prostate cancer
+HNF1B,prostate cancer
+TCF7L2,prostate cancer
+MEIS1-AS3,prostate cancer
+SUGCT,prostate cancer
+ATAT1,prostate cancer
+MOB2,prostate cancer
+MAD1L1,prostate cancer
+CDCA7,prostate cancer
+CASP8,prostate cancer
+PPFIBP2,prostate cancer
+BCAS1,prostate cancer
+MBD2,prostate cancer
+COL23A1,prostate cancer
+ADGRG1,prostate cancer
+DENND4B,prostate cancer
+MSH5,prostate cancer
+BCL2L11,prostate cancer
+THEG5,prostate cancer
+TSHZ1,prostate cancer
+CDKN1B,prostate cancer
+HOXB13,prostate cancer
+RNU6-148P,prostate cancer
+RNU6-491P,prostate cancer
+RN7SKP114,prostate cancer
+RNU6-456P,prostate cancer
+CHD3,prostate cancer
+CHEK2,prostate cancer
+DNMT3B,prostate cancer
+DOCK2,prostate cancer
+TOR1A,prostate cancer
+MECOM,prostate cancer
+KDM2A,prostate cancer
+LARP4B,prostate cancer
+TTC28,prostate cancer
+B3GAT1,prostate cancer
+RASSF3,prostate cancer
+HLA-DOA,prostate cancer
+DUBR,prostate cancer
+INCENP,prostate cancer
+ITGB8,prostate cancer
+OACYLP,prostate cancer
+ARHGAP6,prostate cancer
+MBNL1,prostate cancer
+MMP14,prostate cancer
+MYO9B,prostate cancer
+ATM,prostate cancer
+PAX9,prostate cancer
+POU2F2,prostate cancer
+HAUS6,prostate cancer
+UHRF1BP1,prostate cancer
+RNF43,prostate cancer
+RNLS,prostate cancer
+MAP2K1,prostate cancer
+EMSY,prostate cancer
+KNL1,prostate cancer
+FBRSL1,prostate cancer
+BCL2,prostate cancer
+PKNOX2,prostate cancer
+RFX7,prostate cancer
+TCF4,prostate cancer
+TCF7L2,prostate cancer
+MEIS1-AS3,prostate cancer
+SUGCT,prostate cancer
+ATAT1,prostate cancer
+MOB2,prostate cancer
+MAD1L1,prostate cancer
+CDCA7,prostate cancer
+CASP8,prostate cancer
+PPFIBP2,prostate cancer
+BCAS1,prostate cancer
+MBD2,prostate cancer
+COL23A1,prostate cancer
+ADGRG1,prostate cancer
+DENND4B,prostate cancer
+CDH1,prostate cancer
+PALB2,breast cancer
+XRCC2,breast cancer
+RAD51D,breast cancer
+CHEK2,breast cancer
+ATM,breast cancer
+BRCA1,breast cancer
+BRCA2,breast cancer
+BARD1,breast cancer
+RAD50,breast cancer
+NBN,breast cancer
+SLX4,breast cancer
+CHEK1,breast cancer
+MLH1,breast cancer
+MRE11,breast cancer
+MUTYH,breast cancer
+RAD51C,breast cancer
+RECQL,breast cancer
+MSH6,breast cancer
+MSH2,breast cancer
+MCPH1,breast cancer
+PPM1D,breast cancer
+CDH1,breast cancer
+KLLN,breast cancer
+GEN1,breast cancer
+EPCAM,breast cancer
+SLC22A18,breast cancer
+PIK3CA,breast cancer
+PMS2,breast cancer
+RINT1,breast cancer
+RAD54L,breast cancer
+BRCA2,breast cancer
+BRCA1,breast cancer
+DNAJB1,hepatocellular carcinoma
+PRKACA,hepatocellular carcinoma
+CTNNB1,hepatocellular carcinoma
+CTNNB1,hepatocellular carcinoma
+TP53,hepatocellular carcinoma
+AXIN1,hepatocellular carcinoma
+MET,hepatocellular carcinoma
+EGF,hepatocellular carcinoma
+PDGFRL,hepatocellular carcinoma
+PIK3CA,hepatocellular carcinoma
+TSC1,hepatocellular carcinoma
+TSC2,hepatocellular carcinoma
+CASP8,hepatocellular carcinoma
+MSH2,colorectal cancer
+MLH1,colorectal cancer
+MSH6,colorectal cancer
+PMS2,colorectal cancer
+AXIN2,colorectal cancer
+MLH3,colorectal cancer
+EPCAM,colorectal cancer
+MSH6,colorectal cancer
+GALNT12,colorectal cancer
+PMS2,colorectal cancer
+EPCAM,colorectal cancer
+TGFBR2,colorectal cancer
+MLH3,colorectal cancer
+TGFBR2,colorectal cancer
+POLD1,colorectal cancer
+MSH2,colorectal cancer
+POLE,colorectal cancer
+MSH6,colorectal cancer
+FAN1,colorectal cancer
+MLH3,colorectal cancer
+MSH2,colorectal cancer
+PMS2,colorectal cancer
+FAN1,colorectal cancer
+APC,colorectal cancer
+KRAS,colorectal cancer
+PMS1,colorectal cancer
+MSH3,colorectal cancer
+EXO1,colorectal cancer
+PALB2,colorectal cancer
+CHEK2,colorectal cancer
+ATM,colorectal cancer
+PIK3CA,colorectal cancer
+CDH1,colorectal cancer
+RPS20,colorectal cancer
+SEMA4A,colorectal cancer
+BMPR1A,colorectal cancer
+CDKN1B,colorectal cancer
+CHEK2,colorectal cancer
+CTNNA1,colorectal cancer
+EPHX1,colorectal cancer
+KRAS,colorectal cancer
+EPCAM,colorectal cancer
+MLH1,colorectal cancer
+MSH3,colorectal cancer
+ATM,colorectal cancer
+PIK3CA,colorectal cancer
+PMS1,colorectal cancer
+PTPRJ,colorectal cancer
+BARD1,colorectal cancer
+RPS20,colorectal cancer
+SEMA4A,colorectal cancer
+NFKBIZ,colorectal cancer
+SMARCA4,colorectal cancer
+TGFBR2,colorectal cancer
+XRCC4,colorectal cancer
+PALB2,colorectal cancer
+EXO1,colorectal cancer
+CDH1,colorectal cancer
+CDKN1B,colorectal cancer
+CTNNA1,colorectal cancer
+EPHX1,colorectal cancer
+PTPRJ,colorectal cancer
+BARD1,colorectal cancer
+RPS20,colorectal cancer
+SEMA4A,colorectal cancer
+NFKBIZ,colorectal cancer
+SMARCA4,colorectal cancer
+XRCC4,colorectal cancer
+CD44,colorectal cancer
+GREM1,colorectal cancer
+BMPR1A,colorectal cancer
+GREM1,colorectal cancer
+BMPR1A,colorectal cancer
+CDKN1B,colorectal cancer
+CHEK2,colorectal cancer
+CTNNA1,colorectal cancer
+EPHX1,colorectal cancer
+FAN1,colorectal cancer
+MLH3,colorectal cancer
+MSH3,colorectal cancer
+ATM,colorectal cancer
+PTPRJ,colorectal cancer
+BARD1,colorectal cancer
+RPS20,colorectal cancer
+SEMA4A,colorectal cancer
+NFKBIZ,colorectal cancer
+SMARCA4,colorectal cancer
+XRCC4,colorectal cancer
+PALB2,colorectal cancer
+EXO1,colorectal cancer
+CDH1,colorectal cancer
+FLT3,acute myeloid leukemia
+FLT3,acute myeloid leukemia
+NPM1,acute myeloid leukemia
+NPM1,acute myeloid leukemia
+KIT,acute myeloid leukemia
+RUNX1T1,acute myeloid leukemia
+RUNX1,acute myeloid leukemia
+TET2,acute myeloid leukemia
+CEBPA,acute myeloid leukemia
+IDH1,acute myeloid leukemia
+KIT,acute myeloid leukemia
+KMT2A,acute myeloid leukemia
+MYH11,acute myeloid leukemia
+KMT2A,acute myeloid leukemia
+CD33,acute myeloid leukemia
+CEBPA,acute myeloid leukemia
+GATA2,acute myeloid leukemia
+IDH2,acute myeloid leukemia
+MYC,acute myeloid leukemia
+CBFB,acute myeloid leukemia
+CD33,acute myeloid leukemia
+FLT3,acute myeloid leukemia
+KMT2A,acute myeloid leukemia
+IDH2,acute myeloid leukemia
+FAS,acute myeloid leukemia
+AQP9,acute myeloid leukemia
+KRAS,acute myeloid leukemia
+BCL2,acute myeloid leukemia
+RASGRP1,acute myeloid leukemia
+CDK6,acute myeloid leukemia
+IFI30,acute myeloid leukemia
+CEBPD,acute myeloid leukemia
+GAS2L1,acute myeloid leukemia
+SEPTIN9,acute myeloid leukemia
+EHMT2,acute myeloid leukemia
+PIM2,acute myeloid leukemia
+PSIP1,acute myeloid leukemia
+ADCY7,acute myeloid leukemia
+VSIG4,acute myeloid leukemia
+CNR2,acute myeloid leukemia
+CSF1R,acute myeloid leukemia
+CSF2,acute myeloid leukemia
+CSF3,acute myeloid leukemia
+CST3,acute myeloid leukemia
+CTNNA1,acute myeloid leukemia
+CTSH,acute myeloid leukemia
+CTSZ,acute myeloid leukemia
+DAPK1,acute myeloid leukemia
+DHX15,acute myeloid leukemia
+DNMT3A,acute myeloid leukemia
+LPAR1,acute myeloid leukemia
+EIF4EBP1,acute myeloid leukemia
+ENO2,acute myeloid leukemia
+EPHX1,acute myeloid leukemia
+ERG,acute myeloid leukemia
+ETV6,acute myeloid leukemia
+MECOM,acute myeloid leukemia
+FHL2,acute myeloid leukemia
+FOXO1,acute myeloid leukemia
+CHIC2,acute myeloid leukemia
+GFI1,acute myeloid leukemia
+GTF2I,acute myeloid leukemia
+H1-0,acute myeloid leukemia
+H1-2,acute myeloid leukemia
+ANXA2,acute myeloid leukemia
+ANXA4,acute myeloid leukemia
+ANXA5,acute myeloid leukemia
+HGF,acute myeloid leukemia
+EHD3,acute myeloid leukemia
+ANXA6,acute myeloid leukemia
+HOXA9,acute myeloid leukemia
+HSPB1,acute myeloid leukemia
+ID2,acute myeloid leukemia
+FAS,acute myeloid leukemia
+AQP9,acute myeloid leukemia
+JAK2,acute myeloid leukemia
+AGRN,acute myeloid leukemia
+MALAT1,acute myeloid leukemia
+KRAS,acute myeloid leukemia
+LPP,acute myeloid leukemia
+LYL1,acute myeloid leukemia
+MET,acute myeloid leukemia
+MLF1,acute myeloid leukemia
+MN1,acute myeloid leukemia
+MX1,acute myeloid leukemia
+NF1,acute myeloid leukemia
+ATP1B1,acute myeloid leukemia
+NRAS,acute myeloid leukemia
+NTRK3,acute myeloid leukemia
+NUP98,acute myeloid leukemia
+ZBTB7A,acute myeloid leukemia
+PDE4B,acute myeloid leukemia
+CHMP5,acute myeloid leukemia
+FXYD6,acute myeloid leukemia
+POU4F1,acute myeloid leukemia
+ASXL2,acute myeloid leukemia
+ENAH,acute myeloid leukemia
+PTPN11,acute myeloid leukemia
+PVR,acute myeloid leukemia
+NECTIN2,acute myeloid leukemia
+KMT2C,acute myeloid leukemia
+BCL2,acute myeloid leukemia
+RGS2,acute myeloid leukemia
+BACH2,acute myeloid leukemia
+S100A8,acute myeloid leukemia
+S100A10,acute myeloid leukemia
+NSD1,acute myeloid leukemia
+SGK1,acute myeloid leukemia
+SH3GL1,acute myeloid leukemia
+SPARC,acute myeloid leukemia
+SPI1,acute myeloid leukemia
+STAT3,acute myeloid leukemia
+SVIL,acute myeloid leukemia
+TCEA2,acute myeloid leukemia
+TERT,acute myeloid leukemia
+TRH,acute myeloid leukemia
+TRIO,acute myeloid leukemia
+TSC2,acute myeloid leukemia
+TUBB2A,acute myeloid leukemia
+WT1,acute myeloid leukemia
+PXDN,acute myeloid leukemia
+BAALC,acute myeloid leukemia
+NUP214,acute myeloid leukemia
+MLLT10,acute myeloid leukemia
+VOPP1,acute myeloid leukemia
+SPRY4,acute myeloid leukemia
+CAPG,acute myeloid leukemia
+CAPN2,acute myeloid leukemia
+PICALM,acute myeloid leukemia
+CASP7,acute myeloid leukemia
+RUNX1,acute myeloid leukemia
+RUNX1T1,acute myeloid leukemia
+ASMTL,acute myeloid leukemia
+RUNX3,acute myeloid leukemia
+TNFSF10,acute myeloid leukemia
+INPP4B,acute myeloid leukemia
+DLEU2,acute myeloid leukemia
+CCND2,acute myeloid leukemia
+SYNGR1,acute myeloid leukemia
+CD9,acute myeloid leukemia
+CD44,acute myeloid leukemia
+TET2,acute myeloid leukemia
+RASGRP1,acute myeloid leukemia
+CDK6,acute myeloid leukemia
+IFI30,acute myeloid leukemia
+CEBPA,acute myeloid leukemia
+CEBPD,acute myeloid leukemia
+GAS2L1,acute myeloid leukemia
+SEPTIN9,acute myeloid leukemia
+EHMT2,acute myeloid leukemia
+PIM2,acute myeloid leukemia
+PSIP1,acute myeloid leukemia
+ADCY7,acute myeloid leukemia
+VSIG4,acute myeloid leukemia
+CNR2,acute myeloid leukemia
+CSF1R,acute myeloid leukemia
+CSF2,acute myeloid leukemia
+CSF3,acute myeloid leukemia
+CST3,acute myeloid leukemia
+CTNNA1,acute myeloid leukemia
+CTSH,acute myeloid leukemia
+CTSZ,acute myeloid leukemia
+DAPK1,acute myeloid leukemia
+DHX15,acute myeloid leukemia
+DNMT3A,acute myeloid leukemia
+LPAR1,acute myeloid leukemia
+EIF4EBP1,acute myeloid leukemia
+ENO2,acute myeloid leukemia
+EPHX1,acute myeloid leukemia
+ERG,acute myeloid leukemia
+ETV6,acute myeloid leukemia
+MECOM,acute myeloid leukemia
+FHL2,acute myeloid leukemia
+FOXO1,acute myeloid leukemia
+GATA2,acute myeloid leukemia
+CHIC2,acute myeloid leukemia
+GFI1,acute myeloid leukemia
+GTF2I,acute myeloid leukemia
+H1-0,acute myeloid leukemia
+H1-2,acute myeloid leukemia
+ANXA2,acute myeloid leukemia
+ANXA4,acute myeloid leukemia
+ANXA5,acute myeloid leukemia
+HGF,acute myeloid leukemia
+EHD3,acute myeloid leukemia
+ANXA6,acute myeloid leukemia
+HOXA9,acute myeloid leukemia
+HSPB1,acute myeloid leukemia
+ID2,acute myeloid leukemia
+IDH1,acute myeloid leukemia
+JAK2,acute myeloid leukemia
+AGRN,acute myeloid leukemia
+MALAT1,acute myeloid leukemia
+LPP,acute myeloid leukemia
+LYL1,acute myeloid leukemia
+MET,acute myeloid leukemia
+MLF1,acute myeloid leukemia
+MN1,acute myeloid leukemia
+MX1,acute myeloid leukemia
+MYC,acute myeloid leukemia
+MYH11,acute myeloid leukemia
+NF1,acute myeloid leukemia
+ATP1B1,acute myeloid leukemia
+NRAS,acute myeloid leukemia
+NTRK3,acute myeloid leukemia
+NUP98,acute myeloid leukemia
+ZBTB7A,acute myeloid leukemia
+PDE4B,acute myeloid leukemia
+CHMP5,acute myeloid leukemia
+FXYD6,acute myeloid leukemia
+POU4F1,acute myeloid leukemia
+ASXL2,acute myeloid leukemia
+ENAH,acute myeloid leukemia
+PTPN11,acute myeloid leukemia
+PVR,acute myeloid leukemia
+NECTIN2,acute myeloid leukemia
+KMT2C,acute myeloid leukemia
+RGS2,acute myeloid leukemia
+BACH2,acute myeloid leukemia
+S100A8,acute myeloid leukemia
+S100A10,acute myeloid leukemia
+NSD1,acute myeloid leukemia
+SGK1,acute myeloid leukemia
+SH3GL1,acute myeloid leukemia
+SPARC,acute myeloid leukemia
+SPI1,acute myeloid leukemia
+STAT3,acute myeloid leukemia
+SVIL,acute myeloid leukemia
+TCEA2,acute myeloid leukemia
+TERT,acute myeloid leukemia
+TRH,acute myeloid leukemia
+TRIO,acute myeloid leukemia
+TSC2,acute myeloid leukemia
+TUBB2A,acute myeloid leukemia
+WT1,acute myeloid leukemia
+PXDN,acute myeloid leukemia
+BAALC,acute myeloid leukemia
+NUP214,acute myeloid leukemia
+MLLT10,acute myeloid leukemia
+VOPP1,acute myeloid leukemia
+SPRY4,acute myeloid leukemia
+CAPG,acute myeloid leukemia
+CAPN2,acute myeloid leukemia
+PICALM,acute myeloid leukemia
+CASP7,acute myeloid leukemia
+ASMTL,acute myeloid leukemia
+RUNX3,acute myeloid leukemia
+CBFB,acute myeloid leukemia
+TNFSF10,acute myeloid leukemia
+INPP4B,acute myeloid leukemia
+DLEU2,acute myeloid leukemia
+CCND2,acute myeloid leukemia
+SYNGR1,acute myeloid leukemia
+CD9,acute myeloid leukemia
+CD44,acute myeloid leukemia
+FLT3,acute myeloid leukemia
+HOXB9,acute myeloid leukemia
+KMT2A,acute myeloid leukemia
+NPM1,acute myeloid leukemia
+NUP98,acute myeloid leukemia
+DDX41,acute myeloid leukemia
+RB1,acute myeloid leukemia
+TP53,acute myeloid leukemia
+CREBBP,acute myeloid leukemia
+KAT6A,acute myeloid leukemia
+MRTFA,acute myeloid leukemia
+RBM15,acute myeloid leukemia
+CEBPA,acute myeloid leukemia
+CEBPA,acute myeloid leukemia
+GATA2,acute myeloid leukemia
+TGM6,acute myeloid leukemia
+ERCC6L2,acute myeloid leukemia
+MLH1,colon cancer
+CDKN1B,colon cancer
+CHEK2,colon cancer
+CTNNA1,colon cancer
+EPHX1,colon cancer
+FAN1,colon cancer
+MLH3,colon cancer
+MSH3,colon cancer
+ATM,colon cancer
+PTPRJ,colon cancer
+BARD1,colon cancer
+RPS20,colon cancer
+SEMA4A,colon cancer
+NFKBIZ,colon cancer
+SMARCA4,colon cancer
+XRCC4,colon cancer
+PALB2,colon cancer
+EXO1,colon cancer
+CDH1,colon cancer
+RNF139,clear cell renal cell carcinoma
+FLCN,clear cell renal cell carcinoma
+FHIT,clear cell renal cell carcinoma
+OGG1,clear cell renal cell carcinoma
+DIRC3,clear cell renal cell carcinoma
+HSPBAP1,clear cell renal cell carcinoma
+SLC49A4,clear cell renal cell carcinoma
+LRP5,glioma
+TP53,glioma
+SDHD,glioma
+SDHB,glioma
+SDHD,glioma
+SDHB,glioma
+SDHAF2,glioma
+CDKN2B,glioma
+IDH1,glioma
+PTEN,glioma
+SDHB,glioma
+SDHA,glioma
+NBN,glioma
+SDHC,glioma
+SDHC,glioma
+CDKN2A,glioma
+ATM,glioma
+SPP1,glioma
+BRAF,glioma
+IDH2,glioma
+TP53,glioma
+MAX,glioma
+SDHAF2,glioma
+SDHD,glioma
+PTEN,glioma
+NF1,glioma
+IDH2,glioma
+SPP1,glioma
+HRAS,glioma
+TP53,glioma
+IDH2,glioma
+CCDC26,glioma
+EGFR,glioma
+PHLDB1,glioma
+RTEL1,glioma
+ACVR1,glioma
+SDHC,glioma
+VHL,glioma
+HRAS,glioma
+SDHA,glioma
+SDHB,glioma
+SDHC,glioma
+CHI3L1,glioma
+ERBB2,glioma
+FGF2,glioma
+GDNF,glioma
+H3-3A,glioma
+MDM2,glioma
+MGMT,glioma
+PIK3CA,glioma
+ATRX,glioma
+PTGS2,glioma
+BMI1,glioma
+TERT,glioma
+TNF,glioma
+XRCC1,glioma
+TNFSF10,glioma
+IDH1,glioma
+EPAS1,glioma
+SDHAF2,glioma
+TMEM127,glioma
+IDH1,glioma
+IDH2,glioma
+IDH1,glioma
+IDH2,glioma
+IDH1,glioma
+CDKN2A,glioma
+IDH1,glioma
+MGMT,glioma
+PTEN,glioma
+TNFSF10,glioma
+IDH1,glioma
+IDH2,glioma
+SDHB,glioma
+TMEM127,glioma
+ERBB2,glioma
+TP53,glioma
+BRCA2,glioma
+POT1,glioma
+TERT,glioma
+GSTP1,glioma
+EGLN1,glioma
+PLK1,glioma
+RAF1,glioma
+ROS1,glioma
+SLC5A5,glioma
+IDH1,glioma
+HLA-C,glioma
+TNF,glioma
+KLF6,glioma
+POT1,glioma
+STMN1,glioma
+FBXW7,glioma
+TFRC,glioma
+TOP2A,glioma
+CLCN3,glioma
+FGFR1,glioma
+MDK,glioma
+NTRK1,glioma
+MDH2,glioma
+CDKN2B,glioma
+FGF2,glioma
+PTGS2,glioma
+BRAF,glioma
+SDHAF2,glioma
+CIC,glioma
+HLA-A,glioma
+SOD1,glioma
+XBP1,glioma
+CAT,glioma
+BAP1,glioma
+ERBB2,glioma
+GDNF,glioma
+RAF1,glioma
+CDKN2C,glioma
+ALK,glioma
+HLA-B,glioma
+APC,glioma
+MSH2,glioma
+MYB,glioma
+ATP1B2,glioma
+PIK3R1,glioma
+HMGN5,glioma
+PPM1D,glioma
+FUBP1,glioma
+CHI3L1,glioma
+NTRK1,glioma
+ATRX,glioma
+ROS1,glioma
+SLC5A5,glioma
+PPM1D,glioma
+CLCN2,glioma
+DMBT1,glioma
+FTH1,glioma
+APOD,glioma
+NTRK3,glioma
+PMS2,glioma
+ATR,glioma
+H3C2,glioma
+POT1,glioma
+SSTR2,glioma
+TP53,glioma
+IDH1,glioma
+PTGS2,glioma
+FGFR1,glioma
+H3-3A,glioma
+HLA-A,glioma
+STMN1,glioma
+MDK,glioma
+ATP1B2,glioma
+NTRK3,glioma
+RTEL1,glioma
+PLK1,glioma
+SOD1,glioma
+CAT,glioma
+ACVR1,glioma
+MYB,glioma
+QKI,glioma
+STAG2,glioma
+FAM107A,glioma
+CLCN5,glioma
+CCR4,glioma
+DMXL1,glioma
+PSD3,glioma
+SUZ12,glioma
+TRIM29,glioma
+IL12A,glioma
+IL12B,glioma
+MYBL1,glioma
+MYLK,glioma
+NTRK2,glioma
+XAF1,glioma
+BRCA2,glioma
+QKI,glioma
+DTX1,glioma
+HEY1,glioma
+GDNF,glioma
+HES1,glioma
+TP73-AS1,glioma
+PTEN,glioma
+CDKN2A,glioma
+CDKN2B,glioma
+CHI3L1,glioma
+FAM107A,glioma
+CLCN2,glioma
+CLCN3,glioma
+CLCN5,glioma
+CCR4,glioma
+CCDC26,glioma
+DMXL1,glioma
+ERBB2,glioma
+FGF2,glioma
+FGFR1,glioma
+PHLDB1,glioma
+PSD3,glioma
+SUZ12,glioma
+TRIM29,glioma
+FTH1,glioma
+POT1,glioma
+GDNF,glioma
+GSTP1,glioma
+H3-3A,glioma
+HLA-A,glioma
+HLA-B,glioma
+HLA-C,glioma
+HRAS,glioma
+APOD,glioma
+IL12A,glioma
+IL12B,glioma
+STMN1,glioma
+MDK,glioma
+MGMT,glioma
+MYB,glioma
+MYBL1,glioma
+MYLK,glioma
+NF1,glioma
+ATP1B2,glioma
+NTRK1,glioma
+NTRK2,glioma
+NTRK3,glioma
+RTEL1,glioma
+PLK1,glioma
+ATRX,glioma
+XAF1,glioma
+FBXW7,glioma
+PTEN,glioma
+RAF1,glioma
+ROS1,glioma
+BMI1,glioma
+SLC5A5,glioma
+SOD1,glioma
+SPP1,glioma
+BRAF,glioma
+BRCA2,glioma
+TERT,glioma
+TFRC,glioma
+TNF,glioma
+TOP2A,glioma
+XBP1,glioma
+XRCC1,glioma
+HMGN5,glioma
+H3C2,glioma
+CAT,glioma
+PPM1D,glioma
+TNFSF10,glioma
+ACVR1,glioma
+QKI,glioma
+BRAF,glioma
+DTX1,glioma
+HEY1,glioma
+GDNF,glioma
+HES1,glioma
+TP73-AS1,glioma
+DTX1,glioma
+HEY1,glioma
+GDNF,glioma
+HES1,glioma
+TP73-AS1,glioma
+DTX1,glioma
+HEY1,glioma
+GDNF,glioma
+HES1,glioma
+TP73-AS1,glioma
+DTX1,glioma
+HEY1,glioma
+POT1,glioma
+GDNF,glioma
+HES1,glioma
+TP73-AS1,glioma
+FAM107A,glioma
+CLCN2,glioma
+CLCN3,glioma
+CLCN5,glioma
+CCR4,glioma
+CCDC26,glioma
+DMXL1,glioma
+PHLDB1,glioma
+PSD3,glioma
+SUZ12,glioma
+TRIM29,glioma
+FTH1,glioma
+POT1,glioma
+GSTP1,glioma
+HLA-B,glioma
+HLA-C,glioma
+APOD,glioma
+IL12A,glioma
+IL12B,glioma
+MYB,glioma
+MYBL1,glioma
+MYLK,glioma
+NF1,glioma
+NTRK2,glioma
+XAF1,glioma
+FBXW7,glioma
+BMI1,glioma
+BRCA2,glioma
+TFRC,glioma
+TOP2A,glioma
+XBP1,glioma
+XRCC1,glioma
+HMGN5,glioma
+H3C2,glioma
+QKI,glioma
+DTX1,glioma
+HEY1,glioma
+GDNF,glioma
+HES1,glioma
+IDH1,glioma
+IDH2,glioma
+TP73-AS1,glioma
+DTX1,glioma
+HEY1,glioma
+GDNF,glioma
+HES1,glioma
+TP73-AS1,glioma
+MERTK,glioma
+EGLN2,glioma
+EPAS1,glioma
+FH,glioma
+KIF1B,glioma
+GDNF,glioma
+MDH2,glioma
+MEN1,glioma
+MET,glioma
+MITF,glioma
+NF1,glioma
+EGLN1,glioma
+RET,glioma
+VHL,glioma
+KMT2D,glioma
+BAP1,glioma
+TMEM127,glioma
+TP53,glioma
+VHL,glioma
+SDHC,glioma
+H3-3A,glioma
+IDH2,glioma
+LZTR1,glioma
+H3C1,glioma
+HLA-DQB1,glioma
+HLA-DRB1,glioma
+RHBDF2,esophageal cancer
+MSH2,cancer
+MLH1,cancer
+BRCA1,cancer
+BRCA2,cancer
+MSH6,cancer
+PMS2,cancer
+CDH1,cancer
+FH,cancer
+RHBDF2,cancer
+MLH1,cancer
+AXIN2,cancer
+PALB2,cancer
+MLH3,cancer
+EPCAM,cancer
+MSH6,cancer
+GALNT12,cancer
+PMS2,cancer
+BRCA2,cancer
+BRCA1,cancer
+EPCAM,cancer
+RNASEL,cancer
+RAD51C,cancer
+ATR,cancer
+FOXE1,cancer
+TGFBR2,cancer
+CDKN2A,cancer
+MLH3,cancer
+TGFBR2,cancer
+POLD1,cancer
+HOXB13,cancer
+ELAC2,cancer
+MSH2,cancer
+RAD51D,cancer
+POLE,cancer
+HABP2,cancer
+SRGAP1,cancer
+MINPP1,cancer
+MSR1,cancer
+FGFR3,cancer
+XRCC2,cancer
+HMGA1,cancer
+MSH6,cancer
+CHEK2,cancer
+RAD51D,cancer
+RAD51C,cancer
+TP53,cancer
+FAN1,cancer
+MLH3,cancer
+MSH2,cancer
+PMS2,cancer
+FAN1,cancer
+IL1RN,cancer
+HLA-DPB1,cancer
+STK11,cancer
+NKX2-1,cancer
+CHEK2,cancer
+PALB2,cancer
+RAD51D,cancer
+BRIP1,cancer
+CDKN2A,cancer
+PTGS2,cancer
+CHEK2,cancer
+ATM,cancer
+BRCA1,cancer
+BRCA2,cancer
+MRE11,cancer
+NBN,cancer
+BARD1,cancer
+APC,cancer
+KRAS,cancer
+PMS1,cancer
+KRAS,cancer
+EPHB2,cancer
+HOXB13,cancer
+MSMB,cancer
+EHBP1,cancer
+BRCA2,cancer
+PALB2,cancer
+BRCA1,cancer
+ELAC2,cancer
+HOTAIR,cancer
+CTNNB1,cancer
+EGFR,cancer
+HLA-DPB2,cancer
+MTHFR,cancer
+CCND1,cancer
+STAT3,cancer
+TERT,cancer
+VEGFA,cancer
+HRAS,cancer
+NRAS,cancer
+PTEN,cancer
+RNF43,cancer
+RNASEL,cancer
+MSH3,cancer
+BRCA2,cancer
+NOTCH1,cancer
+TP53,cancer
+BRCA1,cancer
+HRAS,cancer
+VEGFA,cancer
+BARD1,cancer
+APC,cancer
+EXO1,cancer
+MYC,cancer
+CASP8,cancer
+TP63,cancer
+RAD50,cancer
+NBN,cancer
+PALB2,cancer
+CTNNA1,cancer
+PPARG,cancer
+PAX8,cancer
+ERCC1,cancer
+MTOR,cancer
+RARB,cancer
+AKT1,cancer
+MUC1,cancer
+CCND1,cancer
+SLX4,cancer
+CTNNB1,cancer
+PTEN,cancer
+TP53,cancer
+CHEK2,cancer
+ATM,cancer
+CDKN1B,cancer
+JAK2,cancer
+IL6,cancer
+MGMT,cancer
+STAT3,cancer
+CDH1,cancer
+BARD1,cancer
+EGFR,cancer
+MMP2,cancer
+CHEK1,cancer
+MLH1,cancer
+MRE11,cancer
+MUTYH,cancer
+RAD51C,cancer
+RECQL,cancer
+POU5F1,cancer
+TP53,cancer
+PIK3CA,cancer
+CDH1,cancer
+APC,cancer
+MUTYH,cancer
+MSMB,cancer
+RPS20,cancer
+MIR543,cancer
+ZNF667-AS1,cancer
+POU4F1,cancer
+YY1,cancer
+APOBEC3B,cancer
+EGF,cancer
+FOXM1,cancer
+ABL1,cancer
+IGF2,cancer
+ARG1,cancer
+MDM2,cancer
+MPO,cancer
+MIR196B,cancer
+PRKAA1,cancer
+PSCA,cancer
+CAT,cancer
+MSH6,cancer
+MSH2,cancer
+MCPH1,cancer
+PPM1D,cancer
+CDH1,cancer
+CDKN1A,cancer
+BAX,cancer
+KITLG,cancer
+NANOG,cancer
+CTNNB1,cancer
+TP53,cancer
+CHEK2,cancer
+EGFR,cancer
+MYC,cancer
+MAP3K6,cancer
+EPHB2,cancer
+NBN,cancer
+SRD5A2,cancer
+CDH1,cancer
+BRAF,cancer
+SEMA4A,cancer
+BMPR1A,cancer
+PIAS3,cancer
+MIR501,cancer
+WNT2,cancer
+WNT5A,cancer
+CLPTM1L,cancer
+BRAF,cancer
+TNK2,cancer
+CDX2,cancer
+CEBPA,cancer
+CFL1,cancer
+YIF1A,cancer
+UQCR11,cancer
+CHN2,cancer
+SLC52A3,cancer
+CISH,cancer
+TMEM132D,cancer
+SOCS4,cancer
+CPS1,cancer
+SIRPA,cancer
+TTLL9,cancer
+PRICKLE2,cancer
+HIGD2A,cancer
+EFNB2,cancer
+EIF4EBP1,cancer
+ALDH2,cancer
+SULF1,cancer
+WSCD1,cancer
+EXOSC2,cancer
+FTH1,cancer
+COG4,cancer
+ZBTB20,cancer
+GJB1,cancer
+GSTA4,cancer
+GSTP1,cancer
+HADH,cancer
+ANXA4,cancer
+ZBTB8OS,cancer
+IGFBP1,cancer
+IRS1,cancer
+KRT8,cancer
+MIRLET7B,cancer
+MIRLET7D,cancer
+MIR125A,cancer
+MIR145,cancer
+MIR200B,cancer
+MIR211,cancer
+MIR212,cancer
+MIR26B,cancer
+MIR30A,cancer
+MIR30D,cancer
+MIR98,cancer
+MIR99B,cancer
+MIR324,cancer
+MIR331,cancer
+MIR338,cancer
+MIR340,cancer
+PEBP1,cancer
+PRDX1,cancer
+ATP5F1B,cancer
+NOP16,cancer
+ERGIC3,cancer
+PHB,cancer
+PIM1,cancer
+TRIT1,cancer
+PRKG1,cancer
+MAPK8,cancer
+MAPK9,cancer
+MAP2K7,cancer
+MIR409,cancer
+DPP10,cancer
+BCAT2,cancer
+MIR483,cancer
+SERPINB3,cancer
+PBLD,cancer
+SIX3,cancer
+SOD2,cancer
+STAT5A,cancer
+MIR92B,cancer
+ACTC1,cancer
+TPM4,cancer
+TRIO,cancer
+MIR652,cancer
+TSC2,cancer
+MAGED4,cancer
+DDX54,cancer
+CCDC134,cancer
+IFT88,cancer
+PSD2,cancer
+AOPEP,cancer
+ALDH4A1,cancer
+COL23A1,cancer
+GSTO1,cancer
+ACY1,cancer
+NR1I3,cancer
+CDKN1B,cancer
+CSF3,cancer
+HOXB9,cancer
+INHBA,cancer
+KRAS,cancer
+SMAD3,cancer
+BAP1,cancer
+PROM1,cancer
+WIF1,cancer
+CYP2A6,cancer
+EDNRA,cancer
+MECOM,cancer
+NFKBIA,cancer
+TNFRSF19,cancer
+RASSF2,cancer
+CSF2,cancer
+IL2,cancer
+KLLN,cancer
+GEN1,cancer
+EPCAM,cancer
+SLC22A18,cancer
+PIK3CA,cancer
+PMS2,cancer
+RINT1,cancer
+RAD54L,cancer
+CDKN1B,cancer
+KCNQ1,cancer
+MUC2,cancer
+PRKCA,cancer
+PRKCD,cancer
+BCL2,cancer
+XPA,cancer
+NR1H4,cancer
+RAD50,cancer
+RAD51,cancer
+DMRT1,cancer
+PHC1,cancer
+ERCC1,cancer
+ERCC4,cancer
+DPPA3,cancer
+ATF7IP,cancer
+SCNN1A,cancer
+SLC2A3,cancer
+BUB1B,cancer
+CD9,cancer
+TRIP13,cancer
+GDF3,cancer
+CEBPA,cancer
+CSF3,cancer
+DPYD,cancer
+EGFR,cancer
+FAT1,cancer
+PRAME,cancer
+GPX1,cancer
+GRP,cancer
+AREG,cancer
+MAL,cancer
+MAPK1,cancer
+MAPK3,cancer
+RAD51,cancer
+RARB,cancer
+BCL2,cancer
+BCL2L1,cancer
+STAT6,cancer
+TGFA,cancer
+TYMS,cancer
+UROD,cancer
+VEGFA,cancer
+XRCC3,cancer
+BAP1,cancer
+TP63,cancer
+APOBEC3B,cancer
+CDKN2A,cancer
+GNAS,cancer
+GNRH1,cancer
+GNRHR,cancer
+PRKACA,cancer
+PTGS2,cancer
+RB1,cancer
+TSHR,cancer
+CDC42,cancer
+ELF3,cancer
+PRKACB,cancer
+GHSR,cancer
+TYMS,cancer
+CEBPA,cancer
+CSF3,cancer
+DPYD,cancer
+EGFR,cancer
+FAT1,cancer
+PRAME,cancer
+GPX1,cancer
+GRP,cancer
+AREG,cancer
+MAL,cancer
+MAPK1,cancer
+MAPK3,cancer
+RAD51,cancer
+RARB,cancer
+BCL2,cancer
+BCL2L1,cancer
+STAT6,cancer
+TGFA,cancer
+TYMS,cancer
+UROD,cancer
+VEGFA,cancer
+XRCC3,cancer
+BAP1,cancer
+APOBEC3B,cancer
+DMRT1,cancer
+PHC1,cancer
+ERCC1,cancer
+ERCC4,cancer
+DPPA3,cancer
+KITLG,cancer
+POU5F1,cancer
+ATF7IP,cancer
+SCNN1A,cancer
+SLC2A3,cancer
+BUB1B,cancer
+NANOG,cancer
+CD9,cancer
+TRIP13,cancer
+GDF3,cancer
+DMRT1,cancer
+PHC1,cancer
+ERCC1,cancer
+ERCC4,cancer
+DPPA3,cancer
+KITLG,cancer
+POU5F1,cancer
+ATF7IP,cancer
+SCNN1A,cancer
+SLC2A3,cancer
+BUB1B,cancer
+NANOG,cancer
+CD9,cancer
+TRIP13,cancer
+GDF3,cancer
+CEBPA,cancer
+CD274,cancer
+MMP2,cancer
+CDKN2A,cancer
+WNT7A,cancer
+FHIT,cancer
+OGG1,cancer
+WWOX,cancer
+ATR,cancer
+CCND1,cancer
+SULT1A1,cancer
+VEGFA,cancer
+PMS2,cancer
+CDKN1B,cancer
+CHEK2,cancer
+CTNNA1,cancer
+EPHX1,cancer
+KRAS,cancer
+EPCAM,cancer
+MLH1,cancer
+MSH3,cancer
+ATM,cancer
+PIK3CA,cancer
+PMS1,cancer
+PTPRJ,cancer
+BARD1,cancer
+RPS20,cancer
+SEMA4A,cancer
+NFKBIZ,cancer
+SMARCA4,cancer
+TGFBR2,cancer
+XRCC4,cancer
+PALB2,cancer
+EXO1,cancer
+CDH1,cancer
+CDKN1B,cancer
+CTNNA1,cancer
+EPHX1,cancer
+PTPRJ,cancer
+BARD1,cancer
+RPS20,cancer
+SEMA4A,cancer
+NFKBIZ,cancer
+SMARCA4,cancer
+XRCC4,cancer
+CD44,cancer
+CDKN1B,cancer
+CHEK2,cancer
+CTNNA1,cancer
+EPHX1,cancer
+FAN1,cancer
+MLH3,cancer
+MSH3,cancer
+ATM,cancer
+PTPRJ,cancer
+BARD1,cancer
+RPS20,cancer
+SEMA4A,cancer
+NFKBIZ,cancer
+SMARCA4,cancer
+XRCC4,cancer
+PALB2,cancer
+EXO1,cancer
+CDH1,cancer
+CMKLR1,cancer
+DICER1,cancer
+LEPR,cancer
+RARRES2,cancer
+FOXL2,cancer
+CDH2,cancer
+HOTAIR,cancer
+ZNF667-AS1,cancer
+CCAT1,cancer
+TRAP1,cancer
+EBI3,cancer
+CDK4,cancer
+MSLN,cancer
+CDKN1A,cancer
+CDKN1B,cancer
+CDKN2A,cancer
+CDKN2D,cancer
+CNPY2,cancer
+DLC1,cancer
+FST,cancer
+NOP56,cancer
+ARL6IP5,cancer
+CCT7,cancer
+CTSC,cancer
+WIF1,cancer
+CKB,cancer
+LRRC3B,cancer
+CLCN3,cancer
+CLN3,cancer
+PLIN2,cancer
+MBD3L2,cancer
+DCBLD2,cancer
+KLF6,cancer
+CLDN3,cancer
+CST1,cancer
+CTNNA2,cancer
+CTSL,cancer
+ADRB1,cancer
+ADRB2,cancer
+CYP2A6,cancer
+ACE,cancer
+DDB1,cancer
+GADD45A,cancer
+DES,cancer
+AFP,cancer
+DNMT1,cancer
+DNMT3B,cancer
+DPAGT1,cancer
+DPYD,cancer
+HBEGF,cancer
+AGTR2,cancer
+TYMP,cancer
+ECHS1,cancer
+ECM1,cancer
+EEF1A1,cancer
+EEF1A2,cancer
+AHR,cancer
+ENO1,cancer
+ERBB2,cancer
+ERCC1,cancer
+ERCC2,cancer
+ALB,cancer
+F2R,cancer
+ALDH1A3,cancer
+FBP1,cancer
+FGFR2,cancer
+FGG,cancer
+FHIT,cancer
+FKBP2,cancer
+ALDOB,cancer
+FAM168A,cancer
+BOP1,cancer
+ALOX5,cancer
+ATP6V0D2,cancer
+GAST,cancer
+FYN,cancer
+PRDX5,cancer
+SERBP1,cancer
+ZBTB20,cancer
+GREM1,cancer
+ACAD8,cancer
+SNX5,cancer
+FILIP1,cancer
+PRPF19,cancer
+GLI3,cancer
+MRPS18B,cancer
+MRPL13,cancer
+PYCARD,cancer
+GSTP1,cancer
+ABT1,cancer
+CPSF1,cancer
+ANXA5,cancer
+ZNRD1,cancer
+HMOX1,cancer
+HNRNPL,cancer
+HOXA2,cancer
+HRAS,cancer
+APEX1,cancer
+BIRC2,cancer
+HSPA8,cancer
+HSPB1,cancer
+BIRC5,cancer
+HSPD1,cancer
+APOA1,cancer
+HTR1A,cancer
+ICAM2,cancer
+ID4,cancer
+IDH3B,cancer
+IGFBP3,cancer
+IGFBP7,cancer
+IL1B,cancer
+IL6,cancer
+IL6R,cancer
+CXCL8,cancer
+TNFRSF9,cancer
+ING1,cancer
+IRF1,cancer
+ITGA5,cancer
+JUN,cancer
+AREG,cancer
+KISS1,cancer
+KRT8,cancer
+RHOA,cancer
+LGALS3,cancer
+FADS1,cancer
+M6PR,cancer
+SMAD4,cancer
+MARK1,cancer
+MET,cancer
+MLF1,cancer
+KMT2A,cancer
+MMP7,cancer
+MMP10,cancer
+MSX1,cancer
+MT2A,cancer
+MTHFR,cancer
+MUC1,cancer
+MUC6,cancer
+MX1,cancer
+NDUFA2,cancer
+NDUFS1,cancer
+ATM,cancer
+NDUFV1,cancer
+NOS3,cancer
+NOTCH2,cancer
+NPM1,cancer
+NT5E,cancer
+ALDH7A1,cancer
+PA2G4,cancer
+SERPINE1,cancer
+SERPINB2,cancer
+PAX6,cancer
+COPS7A,cancer
+UBXN1,cancer
+ZNF593,cancer
+PLCE1,cancer
+GMPR2,cancer
+HIKESHI,cancer
+NBAS,cancer
+PDHA1,cancer
+POLR3K,cancer
+WWOX,cancer
+PGAM1,cancer
+PHB,cancer
+SERPINA1,cancer
+PIK3CA,cancer
+PLAGL1,cancer
+PLAU,cancer
+PTOV1,cancer
+KRT20,cancer
+PPARG,cancer
+XAF1,cancer
+PPIA,cancer
+PPIC,cancer
+RNF43,cancer
+PPP2R1A,cancer
+PTPA,cancer
+PRR5-ARHGAP8,cancer
+PREP,cancer
+PRKAA1,cancer
+PRKAB1,cancer
+NAXD,cancer
+CHFR,cancer
+PRKCB,cancer
+MAPK1,cancer
+MAPK3,cancer
+MAPK8,cancer
+PRNP,cancer
+GKN1,cancer
+KLK10,cancer
+EXOSC5,cancer
+PTGS2,cancer
+RANBP10,cancer
+PTPRF,cancer
+PTPRG,cancer
+KMT2C,cancer
+RAD23A,cancer
+RARB,cancer
+RARRES1,cancer
+HRH4,cancer
+RBP1,cancer
+CCND1,cancer
+RBP4,cancer
+BCL2L1,cancer
+RGS2,cancer
+RORA,cancer
+RPL13,cancer
+RPL15,cancer
+RPL18,cancer
+RPS6,cancer
+RPS15,cancer
+RPS19,cancer
+RPS21,cancer
+RPS26,cancer
+RXRB,cancer
+BDNF,cancer
+BID,cancer
+BLVRB,cancer
+MRPS11,cancer
+BMP2,cancer
+SLC1A2,cancer
+BMP7,cancer
+SNAI1,cancer
+SNRPB,cancer
+BNIP3,cancer
+SOD2,cancer
+SPRR2A,cancer
+SREBF2,cancer
+STAT3,cancer
+TBX3,cancer
+ACTC1,cancer
+TFAP2C,cancer
+TGFA,cancer
+THBD,cancer
+TIMP3,cancer
+TNF,cancer
+TPM3,cancer
+TWIST1,cancer
+TYMS,cancer
+UMPS,cancer
+XRCC1,cancer
+XRCC3,cancer
+CA1,cancer
+CA2,cancer
+ZNF177,cancer
+FSD1,cancer
+FAT4,cancer
+EPHX3,cancer
+PSCA,cancer
+PUS1,cancer
+ULBP2,cancer
+TAF15,cancer
+URM1,cancer
+SYMPK,cancer
+MIA,cancer
+ARID1A,cancer
+BAP1,cancer
+REG4,cancer
+CASP8,cancer
+CASP10,cancer
+ARFGAP2,cancer
+ZNF559,cancer
+KISS1R,cancer
+SPZ1,cancer
+TUBA1C,cancer
+MIR22HG,cancer
+ITGA8,cancer
+CST7,cancer
+CAV1,cancer
+PLPP1,cancer
+RUNX3,cancer
+AKR1C3,cancer
+IRS2,cancer
+TNFSF9,cancer
+SUCLG1,cancer
+FCGBP,cancer
+SELENBP1,cancer
+ZNF160,cancer
+SLC16A3,cancer
+RRP9,cancer
+AURKB,cancer
+IL32,cancer
+WDR46,cancer
+CD44,cancer
+TMEM63A,cancer
+MTSS1,cancer
+SCRN1,cancer
+BRCA2,cancer
+BRCA2,cancer
+BRCA1,cancer
+BRCA1,cancer
+GREM1,cancer
+BMPR1A,cancer
+GREM1,cancer
+BMPR1A,cancer
+AHR,cancer
+CGA,cancer
+HRAS,cancer
+NRAS,cancer
+SRGAP1,cancer
+MINPP1,cancer
+BCL2L11,cancer
+THEG5,cancer
+TSHZ1,cancer
+RNU6-148P,cancer
+RNU6-491P,cancer
+RN7SKP114,cancer
+RNU6-456P,cancer
+CHD3,cancer
+DNMT3B,cancer
+DOCK2,cancer
+TOR1A,cancer
+MECOM,cancer
+KDM2A,cancer
+LARP4B,cancer
+TTC28,cancer
+B3GAT1,cancer
+RASSF3,cancer
+HLA-DOA,cancer
+DUBR,cancer
+INCENP,cancer
+ITGB8,cancer
+OACYLP,cancer
+ARHGAP6,cancer
+MBNL1,cancer
+MMP14,cancer
+MYO9B,cancer
+ATM,cancer
+PAX9,cancer
+POU2F2,cancer
+HAUS6,cancer
+UHRF1BP1,cancer
+RNF43,cancer
+RNLS,cancer
+MAP2K1,cancer
+EMSY,cancer
+KNL1,cancer
+FBRSL1,cancer
+BCL2,cancer
+PKNOX2,cancer
+RFX7,cancer
+TCF4,cancer
+HNF1B,cancer
+TCF7L2,cancer
+MEIS1-AS3,cancer
+SUGCT,cancer
+ATAT1,cancer
+MOB2,cancer
+MAD1L1,cancer
+CDCA7,cancer
+CASP8,cancer
+PPFIBP2,cancer
+BCAS1,cancer
+MBD2,cancer
+COL23A1,cancer
+ADGRG1,cancer
+DENND4B,cancer
+EPCAM,cancer
+MSH2,cancer
+PMS1,cancer
+CDKN1B,cancer
+CHEK2,cancer
+CTNNA1,cancer
+EPHX1,cancer
+FAN1,cancer
+MLH3,cancer
+MSH3,cancer
+ATM,cancer
+PTPRJ,cancer
+BARD1,cancer
+RPS20,cancer
+SEMA4A,cancer
+NFKBIZ,cancer
+SMARCA4,cancer
+XRCC4,cancer
+PALB2,cancer
+EXO1,cancer
+CDH1,cancer
+MSH5,cancer
+MIR300,cancer
+MIR543,cancer
+MIR889,cancer
+MIR1247,cancer
+MIR1197,cancer
+MIR1193,cancer
+DIO3,cancer
+DYNC1H1,cancer
+MIR127,cancer
+MIR134,cancer
+MIR136,cancer
+MIR154,cancer
+MIR299,cancer
+MIR323A,cancer
+MIR337,cancer
+MIR376C,cancer
+MIR369,cancer
+MIR370,cancer
+MIR376A1,cancer
+MIR377,cancer
+MIR379,cancer
+MIR380,cancer
+MIR381,cancer
+MIR382,cancer
+PPP2R5C,cancer
+MIR433,cancer
+MIR431,cancer
+MIR329-1,cancer
+MIR323B,cancer
+MIR409,cancer
+MIR412,cancer
+MIR410,cancer
+MIR376B,cancer
+MIR485,cancer
+MIR493,cancer
+MIR432,cancer
+MIR494,cancer
+MIR495,cancer
+MIR496,cancer
+BEGAIN,cancer
+RET,cancer
+MIR487A,cancer
+DIO3OS,cancer
+SNAI2,cancer
+SNAI1,cancer
+MIR539,cancer
+MIR376A2,cancer
+MIR487B,cancer
+MIR411,cancer
+ZEB1,cancer
+NKX2-1,cancer
+MIR654,cancer
+MIR655,cancer
+MIR656,cancer
+WARS1,cancer
+MIR758,cancer
+MIR770,cancer
+CCDC6,cancer
+WDR20,cancer
+ZEB2,cancer
+ZNF367,cancer
+KDM1A,cancer
+AR,cancer
+CD46,cancer
+ASF1B,cancer
+CENPK,cancer
+ZNF217,cancer
+AKR1C3,cancer
+TRIM24,cancer
+CYLD,cancer
+HES1,cancer
+BIRC5,cancer
+NOTCH2,cancer
+BCL2L11,cancer
+THEG5,cancer
+TSHZ1,cancer
+CDKN1B,cancer
+HOXB13,cancer
+RNU6-148P,cancer
+RNU6-491P,cancer
+RN7SKP114,cancer
+RNU6-456P,cancer
+CHD3,cancer
+CHEK2,cancer
+DNMT3B,cancer
+DOCK2,cancer
+TOR1A,cancer
+MECOM,cancer
+KDM2A,cancer
+LARP4B,cancer
+TTC28,cancer
+B3GAT1,cancer
+RASSF3,cancer
+HLA-DOA,cancer
+DUBR,cancer
+INCENP,cancer
+ITGB8,cancer
+OACYLP,cancer
+ARHGAP6,cancer
+MBNL1,cancer
+MMP14,cancer
+MYO9B,cancer
+ATM,cancer
+PAX9,cancer
+POU2F2,cancer
+HAUS6,cancer
+UHRF1BP1,cancer
+RNF43,cancer
+RNLS,cancer
+MAP2K1,cancer
+EMSY,cancer
+KNL1,cancer
+FBRSL1,cancer
+BCL2,cancer
+PKNOX2,cancer
+RFX7,cancer
+TCF4,cancer
+TCF7L2,cancer
+MEIS1-AS3,cancer
+SUGCT,cancer
+ATAT1,cancer
+MOB2,cancer
+MAD1L1,cancer
+CDCA7,cancer
+CASP8,cancer
+PPFIBP2,cancer
+BCAS1,cancer
+MBD2,cancer
+COL23A1,cancer
+ADGRG1,cancer
+DENND4B,cancer
+CDH1,cancer
+MSH6,cancer
+MEN1,cancer
+MSH2,cancer
+BRCA1,cancer
+BRCA2,cancer
+TP53,breast carcinoma
+CHEK2,breast carcinoma
+AKT1,breast carcinoma
+ESR1,breast carcinoma
+KRAS,breast carcinoma
+PIK3CA,breast carcinoma
+PTEN,breast carcinoma
+BRCA1,breast carcinoma
+BRCA2,breast carcinoma
+PALB2,breast carcinoma
+BRIP1,breast carcinoma
+CASP8,breast carcinoma
+NOTCH2,breast carcinoma
+CDKN1B,breast carcinoma
+EP300,breast carcinoma
+ERBB2,breast carcinoma
+AKT2,breast carcinoma
+FGF3,breast carcinoma
+FGF4,breast carcinoma
+FGFR1,breast carcinoma
+FOXA1,breast carcinoma
+HRAS,breast carcinoma
+MMP1,breast carcinoma
+NOTCH1,breast carcinoma
+RB1,breast carcinoma
+TBX3,breast carcinoma
+BAP1,breast carcinoma
+ZNF366,breast carcinoma
+PDPK1,breast carcinoma
+NCOR1,breast carcinoma
+CDKN2A,breast carcinoma
+CTNNB1,breast carcinoma
+ERBB4,breast carcinoma
+FGFR2,breast carcinoma
+ZNF365,breast carcinoma
+PHGDH,breast carcinoma
+TOX3,breast carcinoma
+KRT8,breast carcinoma
+LSP1,breast carcinoma
+MDM2,breast carcinoma
+MDM4,breast carcinoma
+MAP3K1,breast carcinoma
+ATM,breast carcinoma
+PHB,breast carcinoma
+BARD1,breast carcinoma
+RAD51,breast carcinoma
+RAD51C,breast carcinoma
+RAD51B,breast carcinoma
+CCND1,breast carcinoma
+XRCC3,breast carcinoma
+FTO,breast carcinoma
+PPM1D,breast carcinoma
+NCOA1,breast carcinoma
+CDH1,breast carcinoma
+HMMR,breast carcinoma
+RNF115,breast carcinoma
+H19,breast carcinoma
+LGR6,breast carcinoma
+PRC1,breast carcinoma
+RB1CC1,breast carcinoma
+KCNH1,breast carcinoma
+SLC22A18,breast carcinoma
+NRIP1,breast carcinoma
+FGF10,breast carcinoma
+STXBP4,breast carcinoma
+NQO2,breast carcinoma
+EXO1,breast carcinoma
+DAP3,breast carcinoma
+ATG10,breast carcinoma
+RAD54L,breast carcinoma
+FLACC1,breast carcinoma
+PTPRD,breast carcinoma
+ZC3H11A,breast carcinoma
+NAT2,breast carcinoma
+ADAM10,breast carcinoma
+NDRG1,breast carcinoma
+YAP1,breast carcinoma
+HOXB13,breast carcinoma
+AGR2,breast carcinoma
+HPSE,breast carcinoma
+IL24,breast carcinoma
+UBE2C,breast carcinoma
+CHEK1,breast carcinoma
+COMT,breast carcinoma
+CLDN4,breast carcinoma
+PARP1,breast carcinoma
+CSF1,breast carcinoma
+CSF1R,breast carcinoma
+CSF2,breast carcinoma
+CSF3,breast carcinoma
+CST6,breast carcinoma
+CYP1A1,breast carcinoma
+CYP1B1,breast carcinoma
+CYP2D6,breast carcinoma
+CYP3A4,breast carcinoma
+CYP17A1,breast carcinoma
+CYP19A1,breast carcinoma
+CYP24A1,breast carcinoma
+NQO1,breast carcinoma
+DNMT1,breast carcinoma
+DNMT3A,breast carcinoma
+DNMT3B,breast carcinoma
+JAG1,breast carcinoma
+E2F1,breast carcinoma
+EGF,breast carcinoma
+EGFR,breast carcinoma
+AHR,breast carcinoma
+EPHB4,breast carcinoma
+ERBB3,breast carcinoma
+ESR2,breast carcinoma
+ESRRA,breast carcinoma
+ETS2,breast carcinoma
+ETV4,breast carcinoma
+EZH2,breast carcinoma
+F3,breast carcinoma
+FASN,breast carcinoma
+DKK1,breast carcinoma
+FOXM1,breast carcinoma
+FLT1,breast carcinoma
+FN1,breast carcinoma
+SIRT1,breast carcinoma
+FOS,breast carcinoma
+MTOR,breast carcinoma
+ABL1,breast carcinoma
+SLC39A6,breast carcinoma
+SETBP1,breast carcinoma
+GATA3,breast carcinoma
+GJA1,breast carcinoma
+GPI,breast carcinoma
+GPER1,breast carcinoma
+GPX1,breast carcinoma
+GRB7,breast carcinoma
+SETD2,breast carcinoma
+GSTP1,breast carcinoma
+H2AX,breast carcinoma
+NRG1,breast carcinoma
+HIC1,breast carcinoma
+HIF1A,breast carcinoma
+HMOX1,breast carcinoma
+HRG,breast carcinoma
+HSP90AA1,breast carcinoma
+IFNG,breast carcinoma
+IGF1,breast carcinoma
+IGF1R,breast carcinoma
+IGFBP5,breast carcinoma
+APRT,breast carcinoma
+IL1B,breast carcinoma
+IL6,breast carcinoma
+CXCL8,breast carcinoma
+IL10,breast carcinoma
+IDO1,breast carcinoma
+AR,breast carcinoma
+JUN,breast carcinoma
+AREG,breast carcinoma
+MALAT1,breast carcinoma
+KDR,breast carcinoma
+KIT,breast carcinoma
+KRT5,breast carcinoma
+KRT14,breast carcinoma
+STMN1,breast carcinoma
+LEP,breast carcinoma
+LEPR,breast carcinoma
+BCAR4,breast carcinoma
+LOXL2,breast carcinoma
+MIR10B,breast carcinoma
+MIR126,breast carcinoma
+MIR141,breast carcinoma
+MIR145,breast carcinoma
+MIR146A,breast carcinoma
+MIR200B,breast carcinoma
+MIR200C,breast carcinoma
+MIR205,breast carcinoma
+MIR206,breast carcinoma
+MIR214,breast carcinoma
+MIR221,breast carcinoma
+MIR222,breast carcinoma
+MIR29A,breast carcinoma
+MKI67,breast carcinoma
+MMP2,breast carcinoma
+MMP3,breast carcinoma
+MMP9,breast carcinoma
+MMP14,breast carcinoma
+ABCC1,breast carcinoma
+MST1,breast carcinoma
+MTHFR,breast carcinoma
+MTR,breast carcinoma
+NOS3,breast carcinoma
+NOTCH3,breast carcinoma
+NOTCH4,breast carcinoma
+YBX1,breast carcinoma
+ROR1,breast carcinoma
+PAEP,breast carcinoma
+PAK1,breast carcinoma
+FOXP3,breast carcinoma
+WWOX,breast carcinoma
+PGR,breast carcinoma
+ABCB1,breast carcinoma
+SERPINB5,breast carcinoma
+PIK3CB,breast carcinoma
+PIN1,breast carcinoma
+FBXW7,breast carcinoma
+MAP2K7,breast carcinoma
+KLK10,breast carcinoma
+BAG1,breast carcinoma
+PTGS2,breast carcinoma
+PTHLH,breast carcinoma
+BAX,breast carcinoma
+RAF1,breast carcinoma
+RARA,breast carcinoma
+RARB,breast carcinoma
+BCL2,breast carcinoma
+RECQL,breast carcinoma
+CXCL12,breast carcinoma
+SFRP1,breast carcinoma
+BMP2,breast carcinoma
+SLC2A1,breast carcinoma
+BMP4,breast carcinoma
+SLC5A5,breast carcinoma
+SNAI2,breast carcinoma
+SNAI1,breast carcinoma
+SNCG,breast carcinoma
+SOD2,breast carcinoma
+SPP1,breast carcinoma
+SRC,breast carcinoma
+BRAF,breast carcinoma
+STAT3,breast carcinoma
+STAT5A,breast carcinoma
+AURKA,breast carcinoma
+SULT1A1,breast carcinoma
+ZEB1,breast carcinoma
+TERT,breast carcinoma
+TFAP2A,breast carcinoma
+TFRC,breast carcinoma
+TGM2,breast carcinoma
+THBS1,breast carcinoma
+TNF,breast carcinoma
+TOP2A,breast carcinoma
+TP53BP1,breast carcinoma
+TP73,breast carcinoma
+TXN,breast carcinoma
+TYMS,breast carcinoma
+VDR,breast carcinoma
+VEGFC,breast carcinoma
+VIM,breast carcinoma
+WT1,breast carcinoma
+XRCC2,breast carcinoma
+CXCR4,breast carcinoma
+NCOA3,breast carcinoma
+ARID1A,breast carcinoma
+BCAR3,breast carcinoma
+L3MBTL3,breast carcinoma
+CAT,breast carcinoma
+CAV1,breast carcinoma
+TNFSF10,breast carcinoma
+CCNE1,breast carcinoma
+CLDN1,breast carcinoma
+MTDH,breast carcinoma
+ABCG2,breast carcinoma
+APOBEC3B,breast carcinoma
+ZEB2,breast carcinoma
+ERBB2,breast carcinoma
+BRCA1,breast carcinoma
+TUBB3,breast carcinoma
+NISCH,breast carcinoma
+PPARGC1B,breast carcinoma
+DHFR,breast carcinoma
+EPOR,breast carcinoma
+ALK,breast carcinoma
+NOS2,breast carcinoma
+SERPINB2,breast carcinoma
+CDH1,breast carcinoma
+GPNMB,breast carcinoma
+SLCO1B1,breast carcinoma
+APOBEC3A,breast carcinoma
+HES1,breast carcinoma
+IFNB1,breast carcinoma
+IGFBP7,breast carcinoma
+MIR152,breast carcinoma
+MIF,breast carcinoma
+MIR342,breast carcinoma
+MIR429,breast carcinoma
+RELA,breast carcinoma
+SLC2A5,breast carcinoma
+INPP4B,breast carcinoma
+CDH5,breast carcinoma
+FST,breast carcinoma
+LAMTOR5,breast carcinoma
+CPT1A,breast carcinoma
+ENO1,breast carcinoma
+FLNA,breast carcinoma
+CADM1,breast carcinoma
+BIRC5,breast carcinoma
+KRT18,breast carcinoma
+MIR127,breast carcinoma
+MFGE8,breast carcinoma
+LEF1,breast carcinoma
+EMSY,breast carcinoma
+SFRP2,breast carcinoma
+PER3,breast carcinoma
+SLC16A3,breast carcinoma
+CD74,breast carcinoma
+PTGS2,breast carcinoma
+NCOA2,breast carcinoma
+DDIT3,breast carcinoma
+DPYD,breast carcinoma
+HP,breast carcinoma
+MIR132,breast carcinoma
+MIR301A,breast carcinoma
+PIM1,breast carcinoma
+DLL4,breast carcinoma
+PTGS1,breast carcinoma
+MIR489,breast carcinoma
+RBM3,breast carcinoma
+MAP2K4,breast carcinoma
+ADAMTS1,breast carcinoma
+CD40,breast carcinoma
+OCLN,breast carcinoma
+CFL1,breast carcinoma
+LPAR1,breast carcinoma
+FHL2,breast carcinoma
+JMJD6,breast carcinoma
+GPX4,breast carcinoma
+HOXB9,breast carcinoma
+MIR10A,breast carcinoma
+MME,breast carcinoma
+PLA2G4A,breast carcinoma
+BCL2A1,breast carcinoma
+RPS6KB2,breast carcinoma
+CCL20,breast carcinoma
+NR2F1,breast carcinoma
+C1QBP,breast carcinoma
+WNT10B,breast carcinoma
+DEK,breast carcinoma
+STC2,breast carcinoma
+ADAR,breast carcinoma
+ELK3,breast carcinoma
+GPX2,breast carcinoma
+GZMB,breast carcinoma
+LDHB,breast carcinoma
+CXCL9,breast carcinoma
+ACHE,breast carcinoma
+MYH9,breast carcinoma
+ANGPTL4,breast carcinoma
+PBRM1,breast carcinoma
+ARRDC3,breast carcinoma
+BCHE,breast carcinoma
+RPS6,breast carcinoma
+FKBPL,breast carcinoma
+SHMT1,breast carcinoma
+NORAD,breast carcinoma
+TFPI2,breast carcinoma
+KMT2D,breast carcinoma
+ARTN,breast carcinoma
+FOXQ1,breast carcinoma
+THEMIS2,breast carcinoma
+H6PD,breast carcinoma
+SMAD4,breast carcinoma
+TNIP1,breast carcinoma
+CENPF,breast carcinoma
+LRRC3B,breast carcinoma
+CNR2,breast carcinoma
+DSC3,breast carcinoma
+EDNRB,breast carcinoma
+EFNA1,breast carcinoma
+FBL,breast carcinoma
+MECOM,breast carcinoma
+FABP7,breast carcinoma
+DLL1,breast carcinoma
+HHEX,breast carcinoma
+BIRC2,breast carcinoma
+HSPA1B,breast carcinoma
+MAL,breast carcinoma
+NFKBIA,breast carcinoma
+RRAD,breast carcinoma
+SFRP5,breast carcinoma
+BMPR2,breast carcinoma
+SREBF2,breast carcinoma
+ICAM5,breast carcinoma
+TP53BP2,breast carcinoma
+MED28,breast carcinoma
+ADAM33,breast carcinoma
+CUL5,breast carcinoma
+ACVR1,breast carcinoma
+CDA,breast carcinoma
+ALK,breast carcinoma
+CDH2,breast carcinoma
+APC2,breast carcinoma
+DES,breast carcinoma
+AFP,breast carcinoma
+EFEMP1,breast carcinoma
+EPB41L3,breast carcinoma
+SYNE1,breast carcinoma
+ZNF404,breast carcinoma
+ARF1,breast carcinoma
+ARHGDIA,breast carcinoma
+LLGL2,breast carcinoma
+MIR101-2,breast carcinoma
+MIR24-2,breast carcinoma
+MEIS1,breast carcinoma
+RGS2,breast carcinoma
+RPS4X,breast carcinoma
+SLC2A2,breast carcinoma
+BTK,breast carcinoma
+NSD2,breast carcinoma
+LIMD2,breast carcinoma
+EIF2S2,breast carcinoma
+CTU1,breast carcinoma
+MAP3K13,breast carcinoma
+AKAP12,breast carcinoma
+TCL1B,breast carcinoma
+MED12,breast carcinoma
+UBD,breast carcinoma
+LBX1,breast carcinoma
+DEPP1,breast carcinoma
+BTN3A2,breast carcinoma
+SPATA18,breast carcinoma
+CRHR1,breast carcinoma
+FGD5,breast carcinoma
+DIO3,breast carcinoma
+NR2F6,breast carcinoma
+COTL1,breast carcinoma
+HEY2,breast carcinoma
+HEYL,breast carcinoma
+PABPC1,breast carcinoma
+GRIK2,breast carcinoma
+CXCL3,breast carcinoma
+NUDT2,breast carcinoma
+HNRNPK,breast carcinoma
+HNRNPL,breast carcinoma
+IBSP,breast carcinoma
+SLC10A6,breast carcinoma
+JAG2,breast carcinoma
+NDUFS3,breast carcinoma
+NMBR,breast carcinoma
+NRCAM,breast carcinoma
+PDGFA,breast carcinoma
+MRPS23,breast carcinoma
+PDZK1,breast carcinoma
+ATP7B,breast carcinoma
+RMND1,breast carcinoma
+ELP3,breast carcinoma
+MIR31HG,breast carcinoma
+TRERF1,breast carcinoma
+GALNT16,breast carcinoma
+RXRB,breast carcinoma
+MNX1-AS1,breast carcinoma
+SIM1,breast carcinoma
+UMPS,breast carcinoma
+SLC2A10,breast carcinoma
+H2BC4,breast carcinoma
+CASP7,breast carcinoma
+RSPO3,breast carcinoma
+SYNJ2,breast carcinoma
+HERC2,breast carcinoma
+CCNH,breast carcinoma
+RCCD1,breast carcinoma
+SLC28A1,breast carcinoma
+REPS2,breast carcinoma
+STARD8,breast carcinoma
+SERPINB5,breast carcinoma
+BAG1,breast carcinoma
+SOD2,breast carcinoma
+TANK,breast carcinoma
+ZNF667-AS1,breast carcinoma
+HNRNPR,breast carcinoma
+B4GAT1,breast carcinoma
+CLIC1,breast carcinoma
+KLHDC7A,breast carcinoma
+COL7A1,breast carcinoma
+METTL6,breast carcinoma
+UBLCP1,breast carcinoma
+CD109,breast carcinoma
+RALYL,breast carcinoma
+TAFA4,breast carcinoma
+NOP9,breast carcinoma
+EEF1B2,breast carcinoma
+EEF2,breast carcinoma
+DTX3,breast carcinoma
+NUDT17,breast carcinoma
+NSUN6,breast carcinoma
+RNF182,breast carcinoma
+ALDOA,breast carcinoma
+CCT5,breast carcinoma
+KLHDC10,breast carcinoma
+VPS39,breast carcinoma
+HEY1,breast carcinoma
+SNX32,breast carcinoma
+RIBC2,breast carcinoma
+GDF10,breast carcinoma
+CLUL1,breast carcinoma
+GNAI2,breast carcinoma
+ANKRD34A,breast carcinoma
+MRPS28,breast carcinoma
+MRPL13,breast carcinoma
+CXCL2,breast carcinoma
+GUCY1A2,breast carcinoma
+H1-2,breast carcinoma
+HADHB,breast carcinoma
+HOXD11,breast carcinoma
+IGBP1,breast carcinoma
+CTU2,breast carcinoma
+ARAF,breast carcinoma
+EIF6,breast carcinoma
+LINC00671,breast carcinoma
+LLGL1,breast carcinoma
+PLEKHD1,breast carcinoma
+HAPLN4,breast carcinoma
+MAN2C1,breast carcinoma
+MIR345,breast carcinoma
+MT3,breast carcinoma
+PPP1R12B,breast carcinoma
+LRRC37A2,breast carcinoma
+ITSN2,breast carcinoma
+MRPS7,breast carcinoma
+PDE2A,breast carcinoma
+EVL,breast carcinoma
+PCDHGB6,breast carcinoma
+CMC2,breast carcinoma
+MRPS22,breast carcinoma
+ARID1B,breast carcinoma
+ZSWIM5,breast carcinoma
+NECTIN2,breast carcinoma
+ACTA2,breast carcinoma
+TRMT11,breast carcinoma
+RIC8A,breast carcinoma
+RPL23A,breast carcinoma
+RPL31,breast carcinoma
+RPLP2,breast carcinoma
+RPS7,breast carcinoma
+RPS8,breast carcinoma
+KANSL1-AS1,breast carcinoma
+MRPL9,breast carcinoma
+SMARCD1,breast carcinoma
+TLE3,breast carcinoma
+UPK1B,breast carcinoma
+VEGFB,breast carcinoma
+DYNC2H1,breast carcinoma
+TMEM25,breast carcinoma
+ELP1,breast carcinoma
+H2BC12,breast carcinoma
+MACIR,breast carcinoma
+ALKBH8,breast carcinoma
+ATP6AP1L,breast carcinoma
+LDHAL6B,breast carcinoma
+ZNF432,breast carcinoma
+MRPL19,breast carcinoma
+LRRC37A,breast carcinoma
+CLDN4,breast carcinoma
+ATF4,breast carcinoma
+PTGER1,breast carcinoma
+SLC9A3R1,breast carcinoma
+NF2,breast carcinoma
+LRP6,coronary artery disease
+TERT,coronary artery disease
+CDKN2B,coronary artery disease
+APOA5,coronary artery disease
+PHACTR1,coronary artery disease
+PCSK9,coronary artery disease
+ABO,coronary artery disease
+LDLR,coronary artery disease
+LPA,coronary artery disease
+NOS3,coronary artery disease
+ANGPTL4,coronary artery disease
+TCF21,coronary artery disease
+PECAM1,coronary artery disease
+PLPP3,coronary artery disease
+JCAD,coronary artery disease
+SH2B3,coronary artery disease
+ZC3HC1,coronary artery disease
+MRAS,coronary artery disease
+GUCY1A1,coronary artery disease
+LIPA,coronary artery disease
+ABCG8,coronary artery disease
+MIA3,coronary artery disease
+MEF2A,coronary artery disease
+ATP2B1,coronary artery disease
+LMOD1,coronary artery disease
+WDR12,coronary artery disease
+HHIPL1,coronary artery disease
+PROCR,coronary artery disease
+ADAMTS7,coronary artery disease
+CRP,coronary artery disease
+ACE,coronary artery disease
+ESR1,coronary artery disease
+HMOX1,coronary artery disease
+APOA1,coronary artery disease
+APOC3,coronary artery disease
+LTA,coronary artery disease
+MIR146A,coronary artery disease
+MMP3,coronary artery disease
+PON1,coronary artery disease
+PTGS2,coronary artery disease
+SORT1,coronary artery disease
+CCL2,coronary artery disease
+CXCL12,coronary artery disease
+TLR4,coronary artery disease
+VEGFA,coronary artery disease
+KL,coronary artery disease
+GDF15,coronary artery disease
+IRS1,coronary artery disease
+GNB3,coronary artery disease
+ADTRP,coronary artery disease
+TRIB1,coronary artery disease
+CD40LG,coronary artery disease
+ESR2,coronary artery disease
+NPPB,coronary artery disease
+EPO,coronary artery disease
+APCS,coronary artery disease
+DDAH2,coronary artery disease
+IRAK1,coronary artery disease
+PAPPA,coronary artery disease
+MIR146B,coronary artery disease
+ABCG5,coronary artery disease
+TRAF6,coronary artery disease
+PDGFD,coronary artery disease
+NAT2,coronary artery disease
+ANKS1A,coronary artery disease
+HECTD4,coronary artery disease
+MRPS6,coronary artery disease
+APOB,cardiovascular disease
+APOE,cardiovascular disease
+LPA,cardiovascular disease
+NOS3,cardiovascular disease
+ADRB1,cardiovascular disease
+CETP,cardiovascular disease
+CRP,cardiovascular disease
+CST3,cardiovascular disease
+ACE,cardiovascular disease
+AGT,cardiovascular disease
+EDN1,cardiovascular disease
+ALB,cardiovascular disease
+GH1,cardiovascular disease
+HP,cardiovascular disease
+ICAM1,cardiovascular disease
+APOC3,cardiovascular disease
+LPL,cardiovascular disease
+MPO,cardiovascular disease
+MTHFR,cardiovascular disease
+NPPB,cardiovascular disease
+PON1,cardiovascular disease
+PTGS2,cardiovascular disease
+CCL2,cardiovascular disease
+VCAM1,cardiovascular disease
+VWF,cardiovascular disease
+CYP2C19,cardiovascular disease
+NPY,cardiovascular disease
+SELE,cardiovascular disease
+CBS,cardiovascular disease
+SORT1,cardiovascular disease
+PON2,cardiovascular disease
+GPX1,cardiovascular disease
+GRK2,cardiovascular disease
+GRK5,cardiovascular disease
+SLC12A2,cardiovascular disease
+TNNT2,cardiovascular disease
+BRAF,melanoma
+CDKN2A,melanoma
+HRAS,melanoma
+PTEN,melanoma
+BAP1,melanoma
+GNA11,melanoma
+GNAQ,melanoma
+BAP1,melanoma
+CDK4,melanoma
+ERBB4,melanoma
+GNA11,melanoma
+GNAQ,melanoma
+MITF,melanoma
+NRAS,melanoma
+MAP2K1,melanoma
+STK11,melanoma
+TERT,melanoma
+TP53,melanoma
+BAP1,melanoma
+CDKN2A,melanoma
+CDKN2A,melanoma
+CDK4,melanoma
+MITF,melanoma
+MAP2K2,melanoma
+MITF,melanoma
+CDKN2A,melanoma
+NF1,melanoma
+RAC1,melanoma
+SF3B1,melanoma
+CDKN2A,melanoma
+MC1R,melanoma
+XRCC3,melanoma
+POT1,melanoma
+PPP6C,melanoma
+CYSLTR2,melanoma
+PARP1,melanoma
+CTNNB1,melanoma
+ERCC2,melanoma
+AKT1,melanoma
+KIT,melanoma
+MC1R,melanoma
+MDM2,melanoma
+MTAP,melanoma
+ATM,melanoma
+SLC45A2,melanoma
+PIK3CA,melanoma
+RAF1,melanoma
+BRCA2,melanoma
+TYR,melanoma
+XPC,melanoma
+TRRAP,melanoma
+CDK4,melanoma
+KIT,melanoma
+NRAS,melanoma
+BRAF,melanoma
+TP53,melanoma
+CDK4,melanoma
+CDKN2A,melanoma
+TERT,melanoma
+PDGFRA,melanoma
+POT1,melanoma
+CASP8,melanoma
+ERCC4,melanoma
+XPC,melanoma
+FTO,melanoma
+PTEN,melanoma
+RAC1,melanoma
+RAF1,melanoma
+ERCC5,melanoma
+SDHD,melanoma
+CTNNB1,melanoma
+GNA11,melanoma
+PLCB4,melanoma
+DDB2,melanoma
+ERCC3,melanoma
+HRAS,melanoma
+MX2,melanoma
+XPA,melanoma
+PIK3CA,melanoma
+MAP2K2,melanoma
+SF3B1,melanoma
+GNA11,melanoma
+GNAQ,melanoma
+BAP1,melanoma
+AKT3,melanoma
+CDK2,melanoma
+HPSE,melanoma
+CSF2,melanoma
+CTLA4,melanoma
+E2F1,melanoma
+MLANA,melanoma
+FLT1,melanoma
+PRAME,melanoma
+ABCB5,melanoma
+IFNA1,melanoma
+IFNA2,melanoma
+IFNB1,melanoma
+IFNG,melanoma
+IL2,melanoma
+LGALS3,melanoma
+MAGEA1,melanoma
+MET,melanoma
+MELTF,melanoma
+PDCD1,melanoma
+POMC,melanoma
+PPARG,melanoma
+PTGS2,melanoma
+CCND1,melanoma
+RET,melanoma
+S100A4,melanoma
+PMEL,melanoma
+TLR4,melanoma
+TNF,melanoma
+TYRP1,melanoma
+VEGFC,melanoma
+ERCC3,melanoma
+PPP6C,melanoma
+MAP2K1,melanoma
+CYSLTR2,melanoma
+SF3B1,melanoma
+GNA11,melanoma
+GNAQ,melanoma
+CYSLTR2,melanoma
+BAP1,melanoma
+CDKN2A,melanoma
+KIT,melanoma
+KLRK1,melanoma
+ALK,melanoma
+TNC,melanoma
+CRYBG1,melanoma
+FASLG,melanoma
+ASIP,melanoma
+AURKA,melanoma
+HDAC6,melanoma
+ALDH1A1,melanoma
+ARNT,melanoma
+EIF1AX,melanoma
+CUX1,melanoma
+MMP8,melanoma
+XRCC3,melanoma
+GDF15,melanoma
+ERCC2,melanoma
+ERCC1,melanoma
+APEX1,melanoma
+SETDB1,melanoma
+CCND1,melanoma
+EPO,melanoma
+PTK2B,melanoma
+FASN,melanoma
+PHGDH,melanoma
+PAK1,melanoma
+LXN,melanoma
+RAP1GAP,melanoma
+ROS1,melanoma
+NDRG1,melanoma
+STAG2,melanoma
+CSF3,melanoma
+EPOR,melanoma
+GRIN2A,melanoma
+RASA2,melanoma
+SLC5A5,melanoma
+SYK,melanoma
+TFPI2,melanoma
+GAB2,melanoma
+RET,melanoma
+EP300,melanoma
+JMJD6,melanoma
+SUZ12,melanoma
+GLO1,melanoma
+GRM3,melanoma
+MIR340,melanoma
+NF2,melanoma
+PPARD,melanoma
+STX17,melanoma
+PRDX2,melanoma
+FAT4,melanoma
+CAPN1,melanoma
+AKT1,melanoma
+ERCC4,melanoma
+ERCC5,melanoma
+STK11,melanoma
+TERT,melanoma
+CALR,melanoma
+HOXB13,melanoma
+STIP1,melanoma
+IL1RAPL1,melanoma
+BATF2,melanoma
+CLU,melanoma
+CST6,melanoma
+CTH,melanoma
+ALDH1A3,melanoma
+KDM1A,melanoma
+ABL1,melanoma
+ASF1A,melanoma
+SLC17A5,melanoma
+HSPA1A,melanoma
+MAP3K5,melanoma
+MAP3K9,melanoma
+MYO7A,melanoma
+PAX4,melanoma
+PLCB4,melanoma
+TNFRSF19,melanoma
+WFDC1,melanoma
+RAC2,melanoma
+RPS3,melanoma
+SIPA1,melanoma
+SYT4,melanoma
+CASP10,melanoma
+CUL3,melanoma
+ACVR1,melanoma
+RIN1,melanoma
+MAGEC1,melanoma
+CNR1,melanoma
+CREB1,melanoma
+NF1,melanoma
+PDGFRA,melanoma
+JMJD6,melanoma
+CDK6,melanoma
+EPHA4,melanoma
+MAP3K9,melanoma
+PRKD1,melanoma
+STK11,melanoma
+MC1R,melanoma
+KDM1A,melanoma
+KDM4C,melanoma
+IFNB1,melanoma
+PTEN,melanoma
+PXN,melanoma
+BRAF,melanoma
+KDM1A,melanoma
+KDM4C,melanoma
+IFNB1,melanoma
+PTEN,melanoma
+PXN,melanoma
+BRAF,melanoma
+CALR,melanoma
+KDM1A,melanoma
+KDM4C,melanoma
+IFNB1,melanoma
+PTEN,melanoma
+PXN,melanoma
+BRAF,melanoma
+CALR,melanoma
+CDKN1C,melanoma
+RPP38,melanoma
+DRAP1,melanoma
+RAI1,melanoma
+PRSS23,melanoma
+TMEM132B,melanoma
+DDIT4L,melanoma
+NUS1,melanoma
+CLNS1A,melanoma
+CPT1C,melanoma
+COL2A1,melanoma
+ZNF831,melanoma
+CP,melanoma
+CYP1B1,melanoma
+CCDC63,melanoma
+TMEM30B,melanoma
+DCC,melanoma
+GPHA2,melanoma
+DLG2,melanoma
+DSC1,melanoma
+EDA,melanoma
+KHDRBS2,melanoma
+EPB41,melanoma
+F2RL1,melanoma
+ZNF438,melanoma
+SLC39A12,melanoma
+ARL5B,melanoma
+NT5DC1,melanoma
+HS3ST5,melanoma
+RFX6,melanoma
+KDM4B,melanoma
+KDM4C,melanoma
+TSPYL4,melanoma
+UBR4,melanoma
+NPAP1,melanoma
+VGLL2,melanoma
+QPCT,melanoma
+PPP1R14B,melanoma
+CNNM1,melanoma
+SLC25A45,melanoma
+CD163L1,melanoma
+DCBLD1,melanoma
+DNAJC15,melanoma
+SAC3D1,melanoma
+RAX,melanoma
+HDAC2,melanoma
+HOXA9,melanoma
+HOXD12,melanoma
+TAS2R60,melanoma
+IFNA5,melanoma
+INCENP,melanoma
+KLRB1,melanoma
+ARL2,melanoma
+MPST,melanoma
+MYO1B,melanoma
+NFKBIE,melanoma
+NPPA,melanoma
+PAX6,melanoma
+HIKESHI,melanoma
+PIP4K2A,melanoma
+LRP1B,melanoma
+WDR74,melanoma
+MTPAP,melanoma
+ACER3,melanoma
+ECHDC1,melanoma
+PCDHB8,melanoma
+AKR1B10,melanoma
+GOPC,melanoma
+GPAM,melanoma
+FAM160B1,melanoma
+PTPRK,melanoma
+PTPRO,melanoma
+TRAPPC1,melanoma
+DNAJC1,melanoma
+IQCH,melanoma
+SLC6A11,melanoma
+SLC15A2,melanoma
+UGT2B10,melanoma
+MRPL49,melanoma
+SF1,melanoma
+EPHX3,melanoma
+ADAMTS20,melanoma
+MLLT10,melanoma
+CUBN,melanoma
+SLC35G2,melanoma
+C11orf68,melanoma
+EIF1AD,melanoma
+CBS,melanoma
+PKMYT1,melanoma
+PTER,melanoma
+KDM4A,melanoma
+BZW1,melanoma
+USP6NL,melanoma
+JAKMIP2,melanoma
+REC8,melanoma
+KDM1A,melanoma
+KDM4C,melanoma
+IFNB1,melanoma
+PTEN,melanoma
+PXN,melanoma
+BRAF,melanoma
+CALR,melanoma
+STAG2,melanoma
+CUX1,melanoma
+DDB2,melanoma
+ERBB4,melanoma
+JMJD6,melanoma
+ALK,melanoma
+GNAQ,melanoma
+PAK1,melanoma
+XPA,melanoma
+TRRAP,melanoma
+IFNB1,melanoma
+BAP1,melanoma
+MAP4K1,melanoma
+STK38,melanoma
+ALPK2,melanoma
+GRK7,melanoma
+SIK1,melanoma
+NEK10,melanoma
+STK32A,melanoma
+EPHA7,melanoma
+EPHA8,melanoma
+EPHB4,melanoma
+MAST1,melanoma
+PASK,melanoma
+FLT4,melanoma
+MTOR,melanoma
+FYN,melanoma
+GUCY2C,melanoma
+GUCY2D,melanoma
+ITK,melanoma
+MAP3K15,melanoma
+MAP3K10,melanoma
+ROR1,melanoma
+PDGFRA,melanoma
+STK32B,melanoma
+STRADB,melanoma
+PRKCI,melanoma
+PKN1,melanoma
+PRKDC,melanoma
+PAK5,melanoma
+SCYL1,melanoma
+PTK2,melanoma
+ALPK3,melanoma
+RPS6KA2,melanoma
+MAP2K4,melanoma
+WNK4,melanoma
+BMPR1B,melanoma
+AURKA,melanoma
+CDKL5,melanoma
+TAF1,melanoma
+TRIO,melanoma
+TTN,melanoma
+PEAK1,melanoma
+BRSK1,melanoma
+TTBK1,melanoma
+CAMK1,melanoma
+DYRK1B,melanoma
+MAP3K13,melanoma
+ROCK2,melanoma
+ULK2,melanoma
+OXSR1,melanoma
+ADAM10,melanoma
+ADAM28,melanoma
+ADAM29,melanoma
+ADAM33,melanoma
+ADAM12,melanoma
+ADAM18,melanoma
+ADAM7,melanoma
+PTEN,melanoma
+CDK4,melanoma
+CDKN2B,melanoma
+POT1,melanoma
+MGMT,melanoma
+MITF,melanoma
+TERF2IP,melanoma
+ACD,melanoma
+TERT,melanoma
+BAP1,melanoma
+CDKN2A,melanoma
+CLEC16A,multiple sclerosis
+HLA-DRB1,multiple sclerosis
+IL2RA,multiple sclerosis
+IL7R,multiple sclerosis
+TNFRSF1A,multiple sclerosis
+CD40,multiple sclerosis
+CD58,multiple sclerosis
+TYK2,multiple sclerosis
+KIF1B,multiple sclerosis
+HLA-DRA,multiple sclerosis
+CBLB,multiple sclerosis
+STAT4,multiple sclerosis
+TNFAIP3,multiple sclerosis
+TNFSF14,multiple sclerosis
+CD6,multiple sclerosis
+NLRP3,multiple sclerosis
+HLA-DPB1,multiple sclerosis
+HLA-DQB1,multiple sclerosis
+ICAM1,multiple sclerosis
+IRF8,multiple sclerosis
+IFNB1,multiple sclerosis
+IFNG,multiple sclerosis
+APOE,multiple sclerosis
+IL1B,multiple sclerosis
+IL1RN,multiple sclerosis
+IL7,multiple sclerosis
+IL10,multiple sclerosis
+IL17A,multiple sclerosis
+P2RX7,multiple sclerosis
+VDR,multiple sclerosis
+CNR1,multiple sclerosis
+GC,multiple sclerosis
+CASP1,multiple sclerosis
+SLC11A1,multiple sclerosis
+CLDN11,multiple sclerosis
+POMC,multiple sclerosis
+PDCD1,multiple sclerosis
+NECTIN2,multiple sclerosis
+SELE,multiple sclerosis
+VCAM1,multiple sclerosis
+IL12A,multiple sclerosis
+APOE,multiple sclerosis
+RBPJ,multiple sclerosis
+MCAM,multiple sclerosis
+KCNJ10,multiple sclerosis
+BCHE,multiple sclerosis
+APOE,multiple sclerosis
+NLRP3,multiple sclerosis
+CNR1,multiple sclerosis
+KIF1B,multiple sclerosis
+CLEC16A,multiple sclerosis
+GC,multiple sclerosis
+HLA-DPB1,multiple sclerosis
+HLA-DQB1,multiple sclerosis
+HLA-DRA,multiple sclerosis
+HLA-DRB1,multiple sclerosis
+ICAM1,multiple sclerosis
+IRF8,multiple sclerosis
+IFNB1,multiple sclerosis
+IFNG,multiple sclerosis
+APOE,multiple sclerosis
+RBPJ,multiple sclerosis
+IL1B,multiple sclerosis
+IL1RN,multiple sclerosis
+IL2RA,multiple sclerosis
+IL7,multiple sclerosis
+IL7R,multiple sclerosis
+IL10,multiple sclerosis
+IL12A,multiple sclerosis
+IL17A,multiple sclerosis
+KCNJ10,multiple sclerosis
+MCAM,multiple sclerosis
+CLDN11,multiple sclerosis
+P2RX7,multiple sclerosis
+PDCD1,multiple sclerosis
+POMC,multiple sclerosis
+NECTIN2,multiple sclerosis
+BCHE,multiple sclerosis
+SELE,multiple sclerosis
+SLC11A1,multiple sclerosis
+STAT4,multiple sclerosis
+TNFAIP3,multiple sclerosis
+TNFRSF1A,multiple sclerosis
+TYK2,multiple sclerosis
+VCAM1,multiple sclerosis
+VDR,multiple sclerosis
+CASP1,multiple sclerosis
+CBLB,multiple sclerosis
+TNFSF14,multiple sclerosis
+CD6,multiple sclerosis
+CD40,multiple sclerosis
+CD58,multiple sclerosis
+PDE3A,hypertension
+YY1AP1,hypertension
+SARS2,hypertension
+BMPR2,hypertension
+KCNK3,hypertension
+BMPR2,hypertension
+CAV1,hypertension
+DGUOK,hypertension
+BMPR2,hypertension
+SMAD9,hypertension
+KCNK3,hypertension
+CAV1,hypertension
+PTGIS,hypertension
+SMAD9,hypertension
+AGT,hypertension
+AGTR1,hypertension
+NOS3,hypertension
+BMPR2,hypertension
+NR3C2,hypertension
+CPS1,hypertension
+KCNK3,hypertension
+SMAD9,hypertension
+ACVRL1,hypertension
+VEGFA,hypertension
+EDN1,hypertension
+NPPB,hypertension
+SLC6A4,hypertension
+ENG,hypertension
+EIF2AK4,hypertension
+NOS3,hypertension
+ACVRL1,hypertension
+NPPA,hypertension
+SMAD9,hypertension
+AVP,hypertension
+EDNRB,hypertension
+ALOX5,hypertension
+HIF1A,hypertension
+KCNA5,hypertension
+NFATC2,hypertension
+NOS3,hypertension
+CCL2,hypertension
+CD40LG,hypertension
+TBX4,hypertension
+BMPR2,hypertension
+CAV1,hypertension
+ACVRL1,hypertension
+ACVRL1,hypertension
+KCNK3,hypertension
+TBX4,hypertension
+EIF2AK4,hypertension
+EIF2AK4,hypertension
+DGUOK,hypertension
+SMAD9,hypertension
+TBX4,hypertension
+SMAD4,hypertension
+ADD1,hypertension
+GNB3,hypertension
+NOS3,hypertension
+BMPR2,hypertension
+ACVRL1,hypertension
+BMPR2,hypertension
+SMAD4,hypertension
+BMPR2,hypertension
+CAV1,hypertension
+KCNK3,hypertension
+AGT,hypertension
+BMPR2,hypertension
+KCNA5,hypertension
+REN,hypertension
+SMAD1,hypertension
+NR3C1,hypertension
+NOS2,hypertension
+ACE,hypertension
+AGT,hypertension
+RGS5,hypertension
+KCNK3,hypertension
+BMPR1B,hypertension
+KCNK3,hypertension
+EPAS1,hypertension
+EPAS1,hypertension
+BMPR1B,hypertension
+KCNN3,hypertension
+TGFA,hypertension
+NOS3,hypertension
+ECE1,hypertension
+ATP1B1,hypertension
+KCNA5,hypertension
+EIF2AK4,hypertension
+NOS3,hypertension
+TRIP11,hypertension
+CYP17A1,hypertension
+FBLN5,hypertension
+SLC31A1,hypertension
+CBLN2,hypertension
+ABCA3,hypertension
+FOXO1,hypertension
+BRD4,hypertension
+GBA,hypertension
+GDF2,hypertension
+HTR2B,hypertension
+CXCL8,hypertension
+KCNK3,hypertension
+KCNMA1,hypertension
+ARG2,hypertension
+LEPR,hypertension
+LOX,hypertension
+MIR204,hypertension
+EIF2AK4,hypertension
+ATP7A,hypertension
+PRKG1,hypertension
+CCL1,hypertension
+SOD2,hypertension
+TNF,hypertension
+TPH1,hypertension
+CA9,hypertension
+CALCA,hypertension
+MYH9,hypertension
+DDIT3,hypertension
+MMP1,hypertension
+CYP3A5,hypertension
+CALY,hypertension
+SLC4A10,hypertension
+SMAD1,hypertension
+SMAD4,hypertension
+TBX4,hypertension
+HDAC5,hypertension
+GDF2,hypertension
+HDAC1,hypertension
+AQP1,hypertension
+SMAD1,hypertension
+SMAD4,hypertension
+SOX17,hypertension
+ATP13A3,hypertension
+HDAC4,hypertension
+BMPR2,hypertension
+GUCY1A1,hypertension
+HP,hypertension
+NOS3,hypertension
+HP,hypertension
+ENG,hypertension
+SMAD9,hypertension
+EIF2AK4,hypertension
+CAV1,hypertension
+ACVRL1,hypertension
+TBX4,hypertension
+KCNMB1,hypertension
+HDAC5,hypertension
+HDAC1,hypertension
+KCNK3,hypertension
+SMAD9,hypertension
+CAV1,hypertension
+HDAC4,hypertension
+HDAC5,hypertension
+HDAC1,hypertension
+KCNK3,hypertension
+SMAD9,hypertension
+BMPR2,hypertension
+CAV1,hypertension
+HDAC4,hypertension
+GNAS-AS1,hypertension
+KLHL3,hypertension
+GNAS,hypertension
+NR3C2,hypertension
+SCNN1A,hypertension
+SCNN1B,hypertension
+SCNN1G,hypertension
+WNK1,hypertension
+WNK4,hypertension
+STX16,hypertension
+VHL,hypertension
+HDAC5,hypertension
+HDAC1,hypertension
+VHL,hypertension
+HDAC4,hypertension
+HLA-B,hypertension
+HDAC5,hypertension
+HDAC1,hypertension
+KCNK3,hypertension
+SMAD9,hypertension
+CAV1,hypertension
+HDAC4,hypertension
+HDAC5,hypertension
+HDAC1,hypertension
+SMAD9,hypertension
+CAV1,hypertension
+HDAC4,hypertension
+ACE,alzheimer's disease
+APP,alzheimer's disease
+ADAM10,alzheimer's disease
+GSK3B,alzheimer's disease
+HFE,alzheimer's disease
+APOE,alzheimer's disease
+MAPT,alzheimer's disease
+TREM2,alzheimer's disease
+PSEN1,alzheimer's disease
+PLAU,alzheimer's disease
+BACE1,alzheimer's disease
+IDE,alzheimer's disease
+IL1B,alzheimer's disease
+INSR,alzheimer's disease
+LEP,alzheimer's disease
+NPY,alzheimer's disease
+BCL2,alzheimer's disease
+BDNF,alzheimer's disease
+CASP3,alzheimer's disease
+IGF2,alzheimer's disease
+IGF1R,alzheimer's disease
+ATP5F1A,alzheimer's disease
+INS,alzheimer's disease
+BAX,alzheimer's disease
+ABCA7,alzheimer's disease
+TOMM40,alzheimer's disease
+CLU,alzheimer's disease
+CR1,alzheimer's disease
+A2M,alzheimer's disease
+EPHA1,alzheimer's disease
+CD2AP,alzheimer's disease
+BIN1,alzheimer's disease
+APOC1,alzheimer's disease
+MPO,alzheimer's disease
+NOS3,alzheimer's disease
+PSEN2,alzheimer's disease
+SORL1,alzheimer's disease
+PICALM,alzheimer's disease
+VSNL1,alzheimer's disease
+INPP5D,alzheimer's disease
+NECTIN2,alzheimer's disease
+MS4A4A,alzheimer's disease
+PCDH11X,alzheimer's disease
+CASS4,alzheimer's disease
+CYP46A1,alzheimer's disease
+CHRNA7,alzheimer's disease
+CST3,alzheimer's disease
+CYP2D6,alzheimer's disease
+DHCR24,alzheimer's disease
+DPYSL2,alzheimer's disease
+ESR1,alzheimer's disease
+NCSTN,alzheimer's disease
+HMOX1,alzheimer's disease
+IGF1,alzheimer's disease
+MIR146A,alzheimer's disease
+MAOB,alzheimer's disease
+ACHE,alzheimer's disease
+MTHFR,alzheimer's disease
+PPARG,alzheimer's disease
+PRNP,alzheimer's disease
+RELN,alzheimer's disease
+BCHE,alzheimer's disease
+TFAM,alzheimer's disease
+TNF,alzheimer's disease
+VEGFA,alzheimer's disease
+CD33,alzheimer's disease
+CRH,alzheimer's disease
+SOD2,alzheimer's disease
+PLCG2,alzheimer's disease
+UNC5C,alzheimer's disease
+ABI3,alzheimer's disease
+WWOX,alzheimer's disease
+TF,alzheimer's disease
+CHRNB2,alzheimer's disease
+SLC30A6,alzheimer's disease
+PGRMC1,alzheimer's disease
+EIF2S1,alzheimer's disease
+F2,alzheimer's disease
+ARC,alzheimer's disease
+CALM1,alzheimer's disease
+ENO1,alzheimer's disease
+HLA-DRB5,alzheimer's disease
+IGF2R,alzheimer's disease
+TPI1,alzheimer's disease
+SNAR-I,alzheimer's disease
+IQCK,alzheimer's disease
+AMFR,alzheimer's disease
+MIR100,alzheimer's disease
+MIR296,alzheimer's disease
+MIR375,alzheimer's disease
+SLC2A4,alzheimer's disease
+SLC30A4,alzheimer's disease
+MIR708,alzheimer's disease
+MIR3622B,alzheimer's disease
+MIR4467,alzheimer's disease
+TPP1,alzheimer's disease
+GAPDHS,alzheimer's disease
+PYY,alzheimer's disease
+MIR505,alzheimer's disease
+MIR766,alzheimer's disease
+ADAMTS1,alzheimer's disease
+MIR708,alzheimer's disease
+SNAR-I,alzheimer's disease
+MIR3622B,alzheimer's disease
+MIR4467,alzheimer's disease
+ADAM10,alzheimer's disease
+ABCA7,alzheimer's disease
+TOMM40,alzheimer's disease
+PGRMC1,alzheimer's disease
+CYP46A1,alzheimer's disease
+CHRNA7,alzheimer's disease
+CHRNB2,alzheimer's disease
+CLU,alzheimer's disease
+TPP1,alzheimer's disease
+IQCK,alzheimer's disease
+CR1,alzheimer's disease
+CRH,alzheimer's disease
+CST3,alzheimer's disease
+CYP2D6,alzheimer's disease
+ACE,alzheimer's disease
+DHCR24,alzheimer's disease
+DPYSL2,alzheimer's disease
+EIF2S1,alzheimer's disease
+A2M,alzheimer's disease
+ENO1,alzheimer's disease
+EPHA1,alzheimer's disease
+ESR1,alzheimer's disease
+F2,alzheimer's disease
+ARC,alzheimer's disease
+NCSTN,alzheimer's disease
+CD2AP,alzheimer's disease
+BACE1,alzheimer's disease
+GAPDHS,alzheimer's disease
+AMFR,alzheimer's disease
+PCDH11X,alzheimer's disease
+BIN1,alzheimer's disease
+GSK3B,alzheimer's disease
+HFE,alzheimer's disease
+HLA-DRB5,alzheimer's disease
+HMOX1,alzheimer's disease
+APOC1,alzheimer's disease
+IDE,alzheimer's disease
+IGF1,alzheimer's disease
+APOE,alzheimer's disease
+IGF1R,alzheimer's disease
+IGF2,alzheimer's disease
+IGF2R,alzheimer's disease
+APP,alzheimer's disease
+IL1B,alzheimer's disease
+INS,alzheimer's disease
+INPP5D,alzheimer's disease
+INSR,alzheimer's disease
+LEP,alzheimer's disease
+MIR100,alzheimer's disease
+MIR146A,alzheimer's disease
+MIR296,alzheimer's disease
+MAOB,alzheimer's disease
+MAPT,alzheimer's disease
+ACHE,alzheimer's disease
+MPO,alzheimer's disease
+MTHFR,alzheimer's disease
+NOS3,alzheimer's disease
+NPY,alzheimer's disease
+MIR375,alzheimer's disease
+ATP5F1A,alzheimer's disease
+ABI3,alzheimer's disease
+MS4A4A,alzheimer's disease
+WWOX,alzheimer's disease
+PLAU,alzheimer's disease
+PLCG2,alzheimer's disease
+TREM2,alzheimer's disease
+PPARG,alzheimer's disease
+SLC30A6,alzheimer's disease
+PRNP,alzheimer's disease
+RELN,alzheimer's disease
+PSEN1,alzheimer's disease
+PSEN2,alzheimer's disease
+PYY,alzheimer's disease
+CASS4,alzheimer's disease
+MIR505,alzheimer's disease
+BAX,alzheimer's disease
+NECTIN2,alzheimer's disease
+BCHE,alzheimer's disease
+BCL2,alzheimer's disease
+BDNF,alzheimer's disease
+SLC2A4,alzheimer's disease
+SOD2,alzheimer's disease
+TF,alzheimer's disease
+TFAM,alzheimer's disease
+TNF,alzheimer's disease
+TPI1,alzheimer's disease
+VEGFA,alzheimer's disease
+VSNL1,alzheimer's disease
+MIR766,alzheimer's disease
+SLC30A4,alzheimer's disease
+CALM1,alzheimer's disease
+PICALM,alzheimer's disease
+CASP3,alzheimer's disease
+CD33,alzheimer's disease
+ADAMTS1,alzheimer's disease
+GDF5,osteoarthritis
+COL11A1,osteoarthritis
+COMP,osteoarthritis
+SMAD3,osteoarthritis
+HFE,osteoarthritis
+GDF5,osteoarthritis
+CHADL,osteoarthritis
+IL11,osteoarthritis
+SMO,osteoarthritis
+ASTN2,osteoarthritis
+FILIP1,osteoarthritis
+TNC,osteoarthritis
+ITIH1,osteoarthritis
+LMX1B,osteoarthritis
+LTBP3,osteoarthritis
+MAPT,osteoarthritis
+RUNX2,osteoarthritis
+HDAC9,osteoarthritis
+WWP2,osteoarthritis
+LTBP1,osteoarthritis
+SBNO1,osteoarthritis
+FRZB,osteoarthritis
+CRHR1,osteoarthritis
+DMP1,osteoarthritis
+DIABLO,osteoarthritis
+MATN3,osteoarthritis
+PTPN22,rheumatoid arthritis
+SLC22A4,rheumatoid arthritis
+TNF,rheumatoid arthritis
+CRP,rheumatoid arthritis
+IL6ST,rheumatoid arthritis
+CCR6,rheumatoid arthritis
+FCGR2A,rheumatoid arthritis
+PADI4,rheumatoid arthritis
+HLA-DPB1,rheumatoid arthritis
+HLA-DRB1,rheumatoid arthritis
+IL2RA,rheumatoid arthritis
+IL6R,rheumatoid arthritis
+IL10,rheumatoid arthritis
+IRF5,rheumatoid arthritis
+CIITA,rheumatoid arthritis
+STAT4,rheumatoid arthritis
+TNFAIP3,rheumatoid arthritis
+TRAF1,rheumatoid arthritis
+TRAF6,rheumatoid arthritis
+CD28,rheumatoid arthritis
+CD40,rheumatoid arthritis
+PTPN2,rheumatoid arthritis
+TYK2,rheumatoid arthritis
+RUNX1,rheumatoid arthritis
+PTPRC,rheumatoid arthritis
+AGER,rheumatoid arthritis
+IL2RB,rheumatoid arthritis
+NFKBIL1,rheumatoid arthritis
+AFF3,rheumatoid arthritis
+REL,rheumatoid arthritis
+BLK,rheumatoid arthritis
+CDK6,rheumatoid arthritis
+CD244,rheumatoid arthritis
+MMEL1,rheumatoid arthritis
+ANKRD55,rheumatoid arthritis
+GATA3,rheumatoid arthritis
+NFKBIE,rheumatoid arthritis
+PLD4,rheumatoid arthritis
+DNASE1L3,rheumatoid arthritis
+KIF5A,rheumatoid arthritis
+ARID5B,rheumatoid arthritis
+RASGRP1,rheumatoid arthritis
+CSF2,rheumatoid arthritis
+CTLA4,rheumatoid arthritis
+ACAN,rheumatoid arthritis
+RCAN1,rheumatoid arthritis
+AHR,rheumatoid arthritis
+SPRED2,rheumatoid arthritis
+ENO1,rheumatoid arthritis
+ANXA3,rheumatoid arthritis
+HLA-DQA2,rheumatoid arthritis
+IFNG,rheumatoid arthritis
+CCN1,rheumatoid arthritis
+IL1B,rheumatoid arthritis
+IL1RN,rheumatoid arthritis
+IL6,rheumatoid arthritis
+CXCL8,rheumatoid arthritis
+IL18,rheumatoid arthritis
+MIF,rheumatoid arthritis
+MMP2,rheumatoid arthritis
+MPO,rheumatoid arthritis
+MTHFR,rheumatoid arthritis
+NCF2,rheumatoid arthritis
+TNFRSF11B,rheumatoid arthritis
+FOXP3,rheumatoid arthritis
+IL23A,rheumatoid arthritis
+ABCB1,rheumatoid arthritis
+PON1,rheumatoid arthritis
+PTGS2,rheumatoid arthritis
+CCL21,rheumatoid arthritis
+SLC11A1,rheumatoid arthritis
+STAT1,rheumatoid arthritis
+TLR2,rheumatoid arthritis
+VEGFA,rheumatoid arthritis
+CXCR4,rheumatoid arthritis
+CAT,rheumatoid arthritis
+ADIPOQ,rheumatoid arthritis
+CCN2,rheumatoid arthritis
+TNFSF14,rheumatoid arthritis
+DHFR,rheumatoid arthritis
+TNFRSF14,rheumatoid arthritis
+TAGAP,rheumatoid arthritis
+IRAK1,rheumatoid arthritis
+COL2A1,rheumatoid arthritis
+ALOX5,rheumatoid arthritis
+GC,rheumatoid arthritis
+HOXD13,rheumatoid arthritis
+NCF1,rheumatoid arthritis
+TXNDC5,rheumatoid arthritis
+GRK2,rheumatoid arthritis
+FPGS,rheumatoid arthritis
+IGFBP3,rheumatoid arthritis
+FASLG,rheumatoid arthritis
+ATIC,rheumatoid arthritis
+PRKCQ,rheumatoid arthritis
+PTGS1,rheumatoid arthritis
+CCL8,rheumatoid arthritis
+SOD2,rheumatoid arthritis
+GGH,rheumatoid arthritis
+B3GNT2,rheumatoid arthritis
+CP,rheumatoid arthritis
+PLB1,rheumatoid arthritis
+MMP12,rheumatoid arthritis
+ACKR3,rheumatoid arthritis
+PRDM1,rheumatoid arthritis
+CD83,rheumatoid arthritis
+ADORA2A,rheumatoid arthritis
+CLEC12A,rheumatoid arthritis
+IKZF3,rheumatoid arthritis
+FKBP5,rheumatoid arthritis
+CXCL2,rheumatoid arthritis
+HSD11B1,rheumatoid arthritis
+RBPJ,rheumatoid arthritis
+STS,rheumatoid arthritis
+MMP10,rheumatoid arthritis
+BGN,rheumatoid arthritis
+BMP4,rheumatoid arthritis
+SMS,rheumatoid arthritis
+ABCC5,rheumatoid arthritis
+ABCC4,rheumatoid arthritis
+CTSD,rheumatoid arthritis
+DDX6,rheumatoid arthritis
+GRK6,rheumatoid arthritis
+HCLS1,rheumatoid arthritis
+HOXD10,rheumatoid arthritis
+PXK,rheumatoid arthritis
+BCL2A1,rheumatoid arthritis
+BMP6,rheumatoid arthritis
+NR4A3,rheumatoid arthritis
+GDF5,rheumatoid arthritis
+CAV2,rheumatoid arthritis
+ABCC3,rheumatoid arthritis
+GPRC5A,rheumatoid arthritis
+CD2,rheumatoid arthritis
+LHX2,rheumatoid arthritis
+IL6,rheumatoid arthritis
+MAB21L2,rheumatoid arthritis
+TXNIP,rheumatoid arthritis
+ABCC2,rheumatoid arthritis
+HAPLN1,rheumatoid arthritis
+GSDME,rheumatoid arthritis
+F2,rheumatoid arthritis
+LY96,rheumatoid arthritis
+GART,rheumatoid arthritis
+RGMB,rheumatoid arthritis
+HOXD11,rheumatoid arthritis
+IRF8,rheumatoid arthritis
+ITGA6,rheumatoid arthritis
+LCN2,rheumatoid arthritis
+MARCKS,rheumatoid arthritis
+RAB8A,rheumatoid arthritis
+PLEK,rheumatoid arthritis
+POU3F1,rheumatoid arthritis
+DDIT4,rheumatoid arthritis
+GIN1,rheumatoid arthritis
+BAIAP2L1,rheumatoid arthritis
+PSG5,rheumatoid arthritis
+NDUFA4L2,rheumatoid arthritis
+PTK2,rheumatoid arthritis
+RAP2A,rheumatoid arthritis
+BDKRB2,rheumatoid arthritis
+CXCL6,rheumatoid arthritis
+TLE3,rheumatoid arthritis
+TMPO,rheumatoid arthritis
+TNFAIP2,rheumatoid arthritis
+TFPI2,rheumatoid arthritis
+CALD1,rheumatoid arthritis
+ST6GALNAC5,rheumatoid arthritis
+MGARP,rheumatoid arthritis
+B3GNT9,rheumatoid arthritis
+RUNX2,rheumatoid arthritis
+SLC25A12,rheumatoid arthritis
+CD3E,rheumatoid arthritis
+CD5,rheumatoid arthritis
+ABCG2,rheumatoid arthritis
+LACC1,rheumatoid arthritis
+MIF,rheumatoid arthritis
+BRAF,papillary thyroid carcinoma
+NKX2-1,papillary thyroid carcinoma
+RET,papillary thyroid carcinoma
+CCDC6,papillary thyroid carcinoma
+FOXE1,papillary thyroid carcinoma
+KRAS,papillary thyroid carcinoma
+NRAS,papillary thyroid carcinoma
+NTRK1,papillary thyroid carcinoma
+PPARG,papillary thyroid carcinoma
+DIRC3,papillary thyroid carcinoma
+PAX8,papillary thyroid carcinoma
+NCOA4,papillary thyroid carcinoma
+NTRK3,papillary thyroid carcinoma
+ETV6,papillary thyroid carcinoma
+ALK,papillary thyroid carcinoma
+GAS8-AS1,papillary thyroid carcinoma
+PTCSC3,papillary thyroid carcinoma
+HRAS,papillary thyroid carcinoma
+EIF1AX,papillary thyroid carcinoma
+ERC1,papillary thyroid carcinoma
+MIR485,papillary thyroid carcinoma
+SNAI1,papillary thyroid carcinoma
+TFG,papillary thyroid carcinoma
+DIO3,papillary thyroid carcinoma
+TPR,papillary thyroid carcinoma
+LPAR4,papillary thyroid carcinoma
+MIR136,papillary thyroid carcinoma
+MIR299,papillary thyroid carcinoma
+MIR376C,papillary thyroid carcinoma
+MIR369,papillary thyroid carcinoma
+MIR381,papillary thyroid carcinoma
+PCM1,papillary thyroid carcinoma
+TRIM33,papillary thyroid carcinoma
+MIR431,papillary thyroid carcinoma
+MIR409,papillary thyroid carcinoma
+TRIM27,papillary thyroid carcinoma
+MIR539,papillary thyroid carcinoma
+MIR654,papillary thyroid carcinoma
+MIR758,papillary thyroid carcinoma
+TRIM24,papillary thyroid carcinoma
+MIR300,papillary thyroid carcinoma
+MIR543,papillary thyroid carcinoma
+MIR889,papillary thyroid carcinoma
+MIR1247,papillary thyroid carcinoma
+MIR1197,papillary thyroid carcinoma
+MIR1193,papillary thyroid carcinoma
+DYNC1H1,papillary thyroid carcinoma
+MIR127,papillary thyroid carcinoma
+MIR134,papillary thyroid carcinoma
+MIR154,papillary thyroid carcinoma
+MIR323A,papillary thyroid carcinoma
+MIR337,papillary thyroid carcinoma
+MIR370,papillary thyroid carcinoma
+MIR376A1,papillary thyroid carcinoma
+MIR377,papillary thyroid carcinoma
+MIR379,papillary thyroid carcinoma
+MIR380,papillary thyroid carcinoma
+MIR382,papillary thyroid carcinoma
+NDUFA13,papillary thyroid carcinoma
+PPP2R5C,papillary thyroid carcinoma
+MIR433,papillary thyroid carcinoma
+MIR329-1,papillary thyroid carcinoma
+MIR323B,papillary thyroid carcinoma
+MIR412,papillary thyroid carcinoma
+MIR410,papillary thyroid carcinoma
+MIR376B,papillary thyroid carcinoma
+MIR493,papillary thyroid carcinoma
+MIR432,papillary thyroid carcinoma
+MIR494,papillary thyroid carcinoma
+MIR495,papillary thyroid carcinoma
+MIR496,papillary thyroid carcinoma
+BEGAIN,papillary thyroid carcinoma
+MIR487A,papillary thyroid carcinoma
+DIO3OS,papillary thyroid carcinoma
+SNAI2,papillary thyroid carcinoma
+MIR376A2,papillary thyroid carcinoma
+MIR487B,papillary thyroid carcinoma
+MIR411,papillary thyroid carcinoma
+ZEB1,papillary thyroid carcinoma
+MIR655,papillary thyroid carcinoma
+MIR656,papillary thyroid carcinoma
+WARS1,papillary thyroid carcinoma
+MIR770,papillary thyroid carcinoma
+WDR20,papillary thyroid carcinoma
+ZEB2,papillary thyroid carcinoma
+GOLGA5,papillary thyroid carcinoma
+NOS3,pre-eclampsia
+STOX1,pre-eclampsia
+CORIN,pre-eclampsia
+FLT1,pre-eclampsia
+AGT,pre-eclampsia
+ACE,pre-eclampsia
+SERPINE1,pre-eclampsia
+EDN1,pre-eclampsia
+EPHX1,pre-eclampsia
+CP,pre-eclampsia
+INHBA,pre-eclampsia
+ARHGAP45,pre-eclampsia
+DDAH2,pre-eclampsia
+ANXA5,pre-eclampsia
+HMOX1,pre-eclampsia
+SCNN1A,pre-eclampsia
+TGFB1,intervertebral disc degeneration
+HTRA1,intervertebral disc degeneration
+SPARC,intervertebral disc degeneration
+LDLR,atherosclerosis
+AGER,atherosclerosis
+AGT,atherosclerosis
+SIRT1,atherosclerosis
+HP,atherosclerosis
+PPARG,atherosclerosis
+CYP27A1,atherosclerosis
+CETP,atherosclerosis
+CRP,atherosclerosis
+CYBA,atherosclerosis
+ABCA1,atherosclerosis
+ESR1,atherosclerosis
+ALOX5,atherosclerosis
+ALOX15,atherosclerosis
+APOA4,atherosclerosis
+ICAM1,atherosclerosis
+IFNG,atherosclerosis
+APOE,atherosclerosis
+IL6,atherosclerosis
+LPA,atherosclerosis
+MMP1,atherosclerosis
+NOS3,atherosclerosis
+SERPINE1,atherosclerosis
+PLA2G2A,atherosclerosis
+PON1,atherosclerosis
+PTGS2,atherosclerosis
+CCL2,atherosclerosis
+STAT3,atherosclerosis
+TLR4,atherosclerosis
+TNF,atherosclerosis
+VCAM1,atherosclerosis
+VEGFA,atherosclerosis
+ADIPOQ,atherosclerosis
+APOE,atherosclerosis
+GSTM1,atherosclerosis
+CCL2,atherosclerosis
+ALOX5AP,atherosclerosis
+CNR2,atherosclerosis
+PLAT,atherosclerosis
+SOCS3,atherosclerosis
+AHR,atherosclerosis
+ABCG5,atherosclerosis
+SOD1,atherosclerosis
+AGT,atherosclerosis
+PARP1,atherosclerosis
+NOS2,atherosclerosis
+NR1H4,atherosclerosis
+IGF2,atherosclerosis
+LTA4H,atherosclerosis
+CCL4,atherosclerosis
+SOD2,atherosclerosis
+GSTP1,atherosclerosis
+TP53,atherosclerosis
+HMOX1,atherosclerosis
+TRIM28,atherosclerosis
+HRH1,atherosclerosis
+HSPA1B,atherosclerosis
+FASLG,atherosclerosis
+NECTIN2,atherosclerosis
+BCL3,atherosclerosis
+CELA2A,atherosclerosis
+CCL3,atherosclerosis
+TRPV1,atherosclerosis
+PLAU,atherosclerosis
+NPC1,atherosclerosis
+TTPA,atherosclerosis
+MRAS,atherosclerosis
+FASLG,atherosclerosis
+PODXL,atherosclerosis
+CD163,atherosclerosis
+CACNA1C,major depressive disorder
+TPH2,major depressive disorder
+CRHR1,major depressive disorder
+FKBP5,major depressive disorder
+HTR2A,major depressive disorder
+SLC6A4,major depressive disorder
+GAD1,major depressive disorder
+FREM3,major depressive disorder
+CAT,major depressive disorder
+CYP2D6,major depressive disorder
+EDN1,major depressive disorder
+PCLO,major depressive disorder
+RELN,major depressive disorder
+GALR2,major depressive disorder
+DRD2,major depressive disorder
+GRM5,major depressive disorder
+GRM7,major depressive disorder
+ESR2,major depressive disorder
+PLCB1,major depressive disorder
+ITIH1,major depressive disorder
+GLT8D1,major depressive disorder
+COMT,major depressive disorder
+CREB1,major depressive disorder
+CRH,major depressive disorder
+CRP,major depressive disorder
+ACE,major depressive disorder
+DISC1,major depressive disorder
+NR3C1,major depressive disorder
+GSK3B,major depressive disorder
+HTR1A,major depressive disorder
+HTR2C,major depressive disorder
+IL1B,major depressive disorder
+IL6,major depressive disorder
+LEP,major depressive disorder
+MAOA,major depressive disorder
+MTHFR,major depressive disorder
+NCAM1,major depressive disorder
+ABCB1,major depressive disorder
+BDNF,major depressive disorder
+SLC6A2,major depressive disorder
+TNF,major depressive disorder
+TPH1,major depressive disorder
+VEGFA,major depressive disorder
+PROM1,major depressive disorder
+CLOCK,major depressive disorder
+RAPGEF5,major depressive disorder
+NR3C2,major depressive disorder
+S100A10,major depressive disorder
+SST,major depressive disorder
+GNB3,major depressive disorder
+NPY,major depressive disorder
+NTRK2,major depressive disorder
+GDNF,major depressive disorder
+CYP2C19,major depressive disorder
+DRD3,major depressive disorder
+FKBP4,major depressive disorder
+HTR1B,major depressive disorder
+IFNG,major depressive disorder
+SLC6A15,major depressive disorder
+DTNBP1,major depressive disorder
+CNR1,major depressive disorder
+CUX1,major depressive disorder
+HP,major depressive disorder
+MAOB,major depressive disorder
+SERPINE1,major depressive disorder
+PDLIM5,major depressive disorder
+DLG4,major depressive disorder
+DRD4,major depressive disorder
+DAOA,major depressive disorder
+GAL,major depressive disorder
+S100B,major depressive disorder
+LHPP,major depressive disorder
+DCANP1,major depressive disorder
+CYP2C9,major depressive disorder
+DBH,major depressive disorder
+EGFR,major depressive disorder
+FGFR1,major depressive disorder
+FMR1,major depressive disorder
+MTOR,major depressive disorder
+GAD2,major depressive disorder
+GFAP,major depressive disorder
+GRIK4,major depressive disorder
+IFNA1,major depressive disorder
+OXTR,major depressive disorder
+GDE1,major depressive disorder
+AVP,major depressive disorder
+PTGS2,major depressive disorder
+SOD2,major depressive disorder
+TDO2,major depressive disorder
+TH,major depressive disorder
+KMO,major depressive disorder
+HOMER1,major depressive disorder
+HDAC5,major depressive disorder
+MIR1202,major depressive disorder
+TSNAX-DISC1,major depressive disorder
+ADCY7,major depressive disorder
+CRHBP,major depressive disorder
+DLG3,major depressive disorder
+EGF,major depressive disorder
+ENPEP,major depressive disorder
+MYT1L,major depressive disorder
+GJA1,major depressive disorder
+MORC1,major depressive disorder
+GRIA2,major depressive disorder
+EHD3,major depressive disorder
+APAF1,major depressive disorder
+HSPA1A,major depressive disorder
+HTR3A,major depressive disorder
+IL2,major depressive disorder
+CXCL10,major depressive disorder
+NTF3,major depressive disorder
+PAWR,major depressive disorder
+PCNT,major depressive disorder
+PDYN,major depressive disorder
+DDIT4,major depressive disorder
+PTPRR,major depressive disorder
+REST,major depressive disorder
+PROK2,major depressive disorder
+SAT1,major depressive disorder
+SGK1,major depressive disorder
+TAC1,major depressive disorder
+TEF,major depressive disorder
+HTR3B,major depressive disorder
+IKBKE,major depressive disorder
+CDH7,major depressive disorder
+RNF41,major depressive disorder
+AKAP8,major depressive disorder
+CDKN2A,major depressive disorder
+TOMM40,major depressive disorder
+DEAF1,major depressive disorder
+IL24,major depressive disorder
+ADCY5,major depressive disorder
+UCN3,major depressive disorder
+ACSM1,major depressive disorder
+CNP,major depressive disorder
+CSF2RB,major depressive disorder
+PRIMA1,major depressive disorder
+ADRA1A,major depressive disorder
+CTLA4,major depressive disorder
+CTNND2,major depressive disorder
+EIF4B,major depressive disorder
+EMP1,major depressive disorder
+CMYA5,major depressive disorder
+ERBB3,major depressive disorder
+CNTNAP2,major depressive disorder
+FOXD3,major depressive disorder
+ANPEP,major depressive disorder
+TBX21,major depressive disorder
+HIF1A,major depressive disorder
+HLF,major depressive disorder
+HSPA1B,major depressive disorder
+APRT,major depressive disorder
+IL2RA,major depressive disorder
+IL11,major depressive disorder
+IRF7,major depressive disorder
+KDR,major depressive disorder
+KPNA3,major depressive disorder
+LDHA,major depressive disorder
+LRP1,major depressive disorder
+LSAMP,major depressive disorder
+MIR30E,major depressive disorder
+M6PR,major depressive disorder
+ARRB1,major depressive disorder
+ARSA,major depressive disorder
+MDM4,major depressive disorder
+MPO,major depressive disorder
+NDUFV2,major depressive disorder
+NELL1,major depressive disorder
+NEFL,major depressive disorder
+NTRK3,major depressive disorder
+NR4A2,major depressive disorder
+OAS2,major depressive disorder
+IL20,major depressive disorder
+NTM,major depressive disorder
+PDE11A,major depressive disorder
+TLR7,major depressive disorder
+GMIP,major depressive disorder
+ACP1,major depressive disorder
+PFKFB3,major depressive disorder
+PLG,major depressive disorder
+ATP7B,major depressive disorder
+CC2D1A,major depressive disorder
+MCTP2,major depressive disorder
+PRKCB,major depressive disorder
+MAP2K1,major depressive disorder
+PSMB4,major depressive disorder
+SLC17A6,major depressive disorder
+PTX3,major depressive disorder
+CCND1,major depressive disorder
+BCL9,major depressive disorder
+BCR,major depressive disorder
+BDKRB2,major depressive disorder
+CCL2,major depressive disorder
+CCL24,major depressive disorder
+NPAS3,major depressive disorder
+USP46,major depressive disorder
+PINK1,major depressive disorder
+RAPH1,major depressive disorder
+SLC1A6,major depressive disorder
+BMP7,major depressive disorder
+SLIT3,major depressive disorder
+VAMP2,major depressive disorder
+TERT,major depressive disorder
+TFCP2,major depressive disorder
+TYK2,major depressive disorder
+ZBTB16,major depressive disorder
+LRP8,major depressive disorder
+REEP5,major depressive disorder
+GALR3,major depressive disorder
+PEA15,major depressive disorder
+CCKAR,major depressive disorder
+KALRN,major depressive disorder
+ARTN,major depressive disorder
+FOXP2,major depressive disorder
+QKI,major depressive disorder
+GABBR2,major depressive disorder
+EDEM1,major depressive disorder
+MED12,major depressive disorder
+HPSE,major depressive disorder
+IFI44L,major depressive disorder
+DDC,major depressive disorder
+DLG2,major depressive disorder
+IFI6,major depressive disorder
+GALR1,major depressive disorder
+ABI3BP,major depressive disorder
+NR4A1,major depressive disorder
+HSPA1L,major depressive disorder
+HSP90AA1,major depressive disorder
+MAP2,major depressive disorder
+MMP8,major depressive disorder
+NDUFV1,major depressive disorder
+OXT,major depressive disorder
+SRRT,major depressive disorder
+KYAT3,major depressive disorder
+SLC5A7,major depressive disorder
+SLC6A13,major depressive disorder
+SOX9,major depressive disorder
+SSTR5,major depressive disorder
+XDH,major depressive disorder
+CAMK2A,major depressive disorder
+CD34,major depressive disorder
+SEC24C,major depressive disorder
+ISG15,major depressive disorder
+HIF1A,hypoxia
+HIF1A,hypoxia
+IRAK1,hypoxia
+NOS2,hypoxia
+IRAK4,hypoxia
+VEGFA,hypoxia
+ALDH1L1,hypoxia
+ADK,hypoxia
+CPA2,hypoxia
+CS,hypoxia
+CTRB1,hypoxia
+SARDH,hypoxia
+AHCY,hypoxia
+EGR1,hypoxia
+ESD,hypoxia
+ALDOB,hypoxia
+GAPDH,hypoxia
+GNAS,hypoxia
+APOA1,hypoxia
+ACADVL,hypoxia
+MPO,hypoxia
+ATF4,hypoxia
+NME1,hypoxia
+NOS1,hypoxia
+NOS3,hypoxia
+NPPA,hypoxia
+ATP5F1B,hypoxia
+PCK2,hypoxia
+PDYN,hypoxia
+PLAT,hypoxia
+POMC,hypoxia
+ACTB,hypoxia
+RPS2,hypoxia
+RPS14,hypoxia
+BDNF,hypoxia
+SOD2,hypoxia
+TFPI,hypoxia
+TKT,hypoxia
+CA9,hypoxia
+IRAK1,hypoxia
+NOS2,hypoxia
+IRAK4,hypoxia
+VEGFA,hypoxia
+ITPR1,hypoxia
+ITPR2,hypoxia
+TP53,osteosarcoma
+CHEK2,osteosarcoma
+RB1,osteosarcoma
+RECQL4,osteosarcoma
+GRM4,osteosarcoma
+SQSTM1,osteosarcoma
+WRN,osteosarcoma
+EGFR,osteosarcoma
+AKT1,osteosarcoma
+EZH2,osteosarcoma
+MET,osteosarcoma
+MMP2,osteosarcoma
+MYC,osteosarcoma
+VEGFA,osteosarcoma
+RUNX2,osteosarcoma
+SIRT1,osteosarcoma
+GSTP1,osteosarcoma
+DHFR,osteosarcoma
+BMI1,osteosarcoma
+PHLDA2,osteosarcoma
+KCNH1,osteosarcoma
+TNFRSF11A,osteosarcoma
+JUN,osteosarcoma
+MIR130B,osteosarcoma
+MIR93,osteosarcoma
+LOX,osteosarcoma
+MIR328,osteosarcoma
+RFC1,osteosarcoma
+MIR106B,osteosarcoma
+WT1,osteosarcoma
+NR1I2,osteosarcoma
+CYP3A4,osteosarcoma
+ESRRA,osteosarcoma
+EXT1,osteosarcoma
+CCNB3,osteosarcoma
+TOPORS,osteosarcoma
+EIF2S1,osteosarcoma
+EXT2,osteosarcoma
+BRD4,osteosarcoma
+FOLR1,osteosarcoma
+MIR302B,osteosarcoma
+BCOR,osteosarcoma
+PRDX2,osteosarcoma
+ZW10,osteosarcoma
+MST1R,osteosarcoma
+RGS1,osteosarcoma
+TAF15,osteosarcoma
+PTCH1,basal cell carcinoma
+PTCH1,basal cell carcinoma
+RASA1,basal cell carcinoma
+TP53,basal cell carcinoma
+PTCH2,basal cell carcinoma
+SMO,basal cell carcinoma
+XPA,basal cell carcinoma
+ERCC2,basal cell carcinoma
+DDB2,basal cell carcinoma
+ERCC3,basal cell carcinoma
+ERCC4,basal cell carcinoma
+ERCC5,basal cell carcinoma
+RASA1,basal cell carcinoma
+STAT5B,basal cell carcinoma
+XPC,basal cell carcinoma
+ERBB2,basal cell carcinoma
+GLI2,basal cell carcinoma
+IL6,basal cell carcinoma
+KRT5,basal cell carcinoma
+KRT17,basal cell carcinoma
+MC1R,basal cell carcinoma
+ASIP,basal cell carcinoma
+MYCN,basal cell carcinoma
+SLC45A2,basal cell carcinoma
+SUFU,basal cell carcinoma
+PIK3CA,basal cell carcinoma
+FBXW7,basal cell carcinoma
+PPP6C,basal cell carcinoma
+PTCH1,basal cell carcinoma
+PTPN14,basal cell carcinoma
+RASA1,basal cell carcinoma
+RB1,basal cell carcinoma
+SMO,basal cell carcinoma
+TERT,basal cell carcinoma
+TP53,basal cell carcinoma
+TYR,basal cell carcinoma
+XPA,basal cell carcinoma
+XRCC3,basal cell carcinoma
+CLPTM1L,basal cell carcinoma
+BAP1,basal cell carcinoma
+PTCH2,basal cell carcinoma
+STK19,basal cell carcinoma
+LATS1,basal cell carcinoma
+ICAM1,diabetic retinopathy
+AGT,diabetic retinopathy
+CASP3,diabetic retinopathy
+THBS1,diabetic retinopathy
+VEGFA,diabetic retinopathy
+SIRT1,diabetic retinopathy
+PON1,diabetic retinopathy
+CRP,diabetic retinopathy
+AGTR1,diabetic retinopathy
+SOD1,diabetic retinopathy
+GAD2,diabetic retinopathy
+HNF4A,diabetes mellitus
+PAX4,diabetes mellitus
+PPP1R3A,diabetes mellitus
+GCK,diabetes mellitus
+FOXP3,diabetes mellitus
+INS,diabetes mellitus
+KCNJ11,diabetes mellitus
+AKT2,diabetes mellitus
+PTPN22,diabetes mellitus
+GCK,diabetes mellitus
+IRS1,diabetes mellitus
+KCNJ11,diabetes mellitus
+HNF1A,diabetes mellitus
+INS,diabetes mellitus
+PDX1,diabetes mellitus
+ABCC8,diabetes mellitus
+GLIS3,diabetes mellitus
+NEUROD1,diabetes mellitus
+SLC2A4,diabetes mellitus
+HNF1B,diabetes mellitus
+GCK,diabetes mellitus
+ABCC8,diabetes mellitus
+ZFP57,diabetes mellitus
+INS,diabetes mellitus
+INS,diabetes mellitus
+HNF1A,diabetes mellitus
+ADCY5,diabetes mellitus
+CAPN10,diabetes mellitus
+HMGA1,diabetes mellitus
+INS,diabetes mellitus
+INSR,diabetes mellitus
+PDX1,diabetes mellitus
+ENPP1,diabetes mellitus
+PPARG,diabetes mellitus
+CDKAL1,diabetes mellitus
+SLC2A2,diabetes mellitus
+ABCC8,diabetes mellitus
+TCF7L2,diabetes mellitus
+TGFB1,diabetes mellitus
+WFS1,diabetes mellitus
+IRS2,diabetes mellitus
+ABCC8,diabetes mellitus
+GCK,diabetes mellitus
+HNF4A,diabetes mellitus
+NEUROD1,diabetes mellitus
+HNF1A,diabetes mellitus
+INSR,diabetes mellitus
+INS,diabetes mellitus
+KCNJ11,diabetes mellitus
+HNF1A,diabetes mellitus
+DNAJC3,diabetes mellitus
+LIPC,diabetes mellitus
+BCL2,diabetes mellitus
+KCNJ11,diabetes mellitus
+PAX4,diabetes mellitus
+MAPK8IP1,diabetes mellitus
+BLK,diabetes mellitus
+KLF11,diabetes mellitus
+PDX1,diabetes mellitus
+PAX4,diabetes mellitus
+HP,diabetes mellitus
+IFNG,diabetes mellitus
+PPARGC1A,diabetes mellitus
+EDN1,diabetes mellitus
+EDNRA,diabetes mellitus
+SIRT1,diabetes mellitus
+HMOX1,diabetes mellitus
+HP,diabetes mellitus
+ICAM1,diabetes mellitus
+LEP,diabetes mellitus
+LEPR,diabetes mellitus
+NOS3,diabetes mellitus
+TNF,diabetes mellitus
+UCP2,diabetes mellitus
+ADIPOQ,diabetes mellitus
+TNFRSF1A,diabetes mellitus
+NOS2,diabetes mellitus
+KL,diabetes mellitus
+CPT1A,diabetes mellitus
+ABCC8,diabetes mellitus
+SNAP25,diabetes mellitus
+HYMAI,diabetes mellitus
+EDNRB,diabetes mellitus
+ATP2A2,diabetes mellitus
+PPARG,diabetes mellitus
+PPARGC1A,diabetes mellitus
+ADRA1A,diabetes mellitus
+CYBA,diabetes mellitus
+CYBB,diabetes mellitus
+CYP1A1,diabetes mellitus
+ADRB3,diabetes mellitus
+ACE,diabetes mellitus
+EDN1,diabetes mellitus
+FOXO3,diabetes mellitus
+SIRT1,diabetes mellitus
+FGF21,diabetes mellitus
+GCK,diabetes mellitus
+GPX1,diabetes mellitus
+GSR,diabetes mellitus
+HMOX1,diabetes mellitus
+ICAM1,diabetes mellitus
+IFNG,diabetes mellitus
+IGF1,diabetes mellitus
+FAS,diabetes mellitus
+IL1B,diabetes mellitus
+IL6,diabetes mellitus
+INSR,diabetes mellitus
+PDX1,diabetes mellitus
+IRS1,diabetes mellitus
+KCNJ11,diabetes mellitus
+LEP,diabetes mellitus
+MMP9,diabetes mellitus
+MPO,diabetes mellitus
+NOS2,diabetes mellitus
+NOS3,diabetes mellitus
+ATP2A2,diabetes mellitus
+ATP2A3,diabetes mellitus
+PCK1,diabetes mellitus
+PCSK2,diabetes mellitus
+PKLR,diabetes mellitus
+PPARG,diabetes mellitus
+PRKCD,diabetes mellitus
+PTGS2,diabetes mellitus
+BAX,diabetes mellitus
+BCL2,diabetes mellitus
+RELA,diabetes mellitus
+BCL2L1,diabetes mellitus
+BDKRB1,diabetes mellitus
+CX3CL1,diabetes mellitus
+SLC2A2,diabetes mellitus
+SLC2A4,diabetes mellitus
+SLC9A3,diabetes mellitus
+SOD1,diabetes mellitus
+SOD2,diabetes mellitus
+SREBF1,diabetes mellitus
+TGFB1,diabetes mellitus
+TIMP1,diabetes mellitus
+TNF,diabetes mellitus
+TNFRSF1A,diabetes mellitus
+TP53,diabetes mellitus
+UCP2,diabetes mellitus
+VEGFA,diabetes mellitus
+CASP3,diabetes mellitus
+CAT,diabetes mellitus
+CAV1,diabetes mellitus
+AOC3,diabetes mellitus
+IRS2,diabetes mellitus
+CASP12,diabetes mellitus
+CLEC16A,diabetes mellitus
+HLA-DQA1,diabetes mellitus
+HLA-DQB1,diabetes mellitus
+HLA-DRB1,diabetes mellitus
+IL2RA,diabetes mellitus
+IL10,diabetes mellitus
+FOXP3,diabetes mellitus
+IGF2BP2,diabetes mellitus
+SLC30A8,diabetes mellitus
+GLIS3,diabetes mellitus
+JAZF1,diabetes mellitus
+GCGR,diabetes mellitus
+GCKR,diabetes mellitus
+GLP1R,diabetes mellitus
+KCNQ1,diabetes mellitus
+MTNR1B,diabetes mellitus
+RETN,diabetes mellitus
+PTPN1,diabetes mellitus
+FTO,diabetes mellitus
+INS,diabetes mellitus
+KCNJ11,diabetes mellitus
+HNF1B,diabetes mellitus
+CAPN10,diabetes mellitus
+IL2RA,diabetes mellitus
+INS,diabetes mellitus
+INS,diabetes mellitus
+THADA,diabetes mellitus
+HMG20A,diabetes mellitus
+CP,diabetes mellitus
+SH2B3,diabetes mellitus
+NOTCH2,diabetes mellitus
+PROX1,diabetes mellitus
+RAC1,diabetes mellitus
+GPD2,diabetes mellitus
+UBE2E2,diabetes mellitus
+KCNK16,diabetes mellitus
+CEL,diabetes mellitus
+GLIS3,diabetes mellitus
+AP3S2,diabetes mellitus
+MAEA,diabetes mellitus
+APPL1,diabetes mellitus
+CTSH,diabetes mellitus
+BACH2,diabetes mellitus
+TYK2,diabetes mellitus
+GRB14,diabetes mellitus
+PEPD,diabetes mellitus
+CMIP,diabetes mellitus
+ITGA1,diabetes mellitus
+PAM,diabetes mellitus
+PLEKHA1,diabetes mellitus
+ZFAND3,diabetes mellitus
+DGKD,diabetes mellitus
+CCND2,diabetes mellitus
+PSMD6,diabetes mellitus
+EIF2S3,diabetes mellitus
+C1QTNF6,diabetes mellitus
+CD69,diabetes mellitus
+KSR2,diabetes mellitus
+NFATC2,diabetes mellitus
+APPL1,diabetes mellitus
+FN1,diabetes mellitus
+SIRT1,diabetes mellitus
+IRS1,diabetes mellitus
+LEPR,diabetes mellitus
+ATP6,diabetes mellitus
+POMC,diabetes mellitus
+PON1,diabetes mellitus
+PTGS2,diabetes mellitus
+SOD1,diabetes mellitus
+CAT,diabetes mellitus
+NR1I2,diabetes mellitus
+ADIPOQ,diabetes mellitus
+CRP,diabetes mellitus
+IGF1,diabetes mellitus
+IL6,diabetes mellitus
+NOS3,diabetes mellitus
+PRKCQ,diabetes mellitus
+TNF,diabetes mellitus
+CAT,diabetes mellitus
+ZNF257,diabetes mellitus
+KLF14,diabetes mellitus
+CYBA,diabetes mellitus
+ETS1,diabetes mellitus
+CNKSR2,diabetes mellitus
+JADE2,diabetes mellitus
+AUTS2,diabetes mellitus
+EPC2,diabetes mellitus
+FGF21,diabetes mellitus
+GCG,diabetes mellitus
+GNB3,diabetes mellitus
+GP2,diabetes mellitus
+GSTM1,diabetes mellitus
+HHEX,diabetes mellitus
+IAPP,diabetes mellitus
+IL13RA1,diabetes mellitus
+INPPL1,diabetes mellitus
+MIR126,diabetes mellitus
+MIR375,diabetes mellitus
+PPARA,diabetes mellitus
+MOK,diabetes mellitus
+RNF6,diabetes mellitus
+SCTR,diabetes mellitus
+SHBG,diabetes mellitus
+ST6GAL1,diabetes mellitus
+SLC1A2,diabetes mellitus
+SLC2A1,diabetes mellitus
+SOD1,diabetes mellitus
+SOD2,diabetes mellitus
+BRAF,diabetes mellitus
+FAM234A,diabetes mellitus
+USP48,diabetes mellitus
+CAT,diabetes mellitus
+VPS26A,diabetes mellitus
+GLIS3,diabetes mellitus
+GCK,diabetes mellitus
+AKR1B1,diabetes mellitus
+SUMO4,diabetes mellitus
+FOXC2,diabetes mellitus
+TBC1D4,diabetes mellitus
+AOC3,diabetes mellitus
+TNFRSF1B,diabetes mellitus
+CASP3,diabetes mellitus
+PAX6,diabetes mellitus
+KCNJ11,diabetes mellitus
+OGG1,diabetes mellitus
+SFRP4,diabetes mellitus
+EIF2AK3,diabetes mellitus
+PAX4,diabetes mellitus
+EGFR,diabetes mellitus
+GPX1,diabetes mellitus
+MIR27A,diabetes mellitus
+NFKB1,diabetes mellitus
+ADAMTS9,diabetes mellitus
+HP,diabetes mellitus
+VEGFA,diabetes mellitus
+CYBB,diabetes mellitus
+SLC29A3,diabetes mellitus
+HBA1,diabetes mellitus
+MIR144,diabetes mellitus
+MIR192,diabetes mellitus
+PCSK2,diabetes mellitus
+PRKCB,diabetes mellitus
+GATA6,diabetes mellitus
+PLAGL1,diabetes mellitus
+NR1I3,diabetes mellitus
+SLC11A1,diabetes mellitus
+STAT3,diabetes mellitus
+TIMP1,diabetes mellitus
+MAP3K5,diabetes mellitus
+MT2A,diabetes mellitus
+IL27,diabetes mellitus
+FGF21,diabetes mellitus
+TMEM18,diabetes mellitus
+C2CD4A,diabetes mellitus
+MIR221,diabetes mellitus
+ATF3,diabetes mellitus
+SLC22A3,diabetes mellitus
+RFX6,diabetes mellitus
+ZFP57,diabetes mellitus
+PDX1,diabetes mellitus
+PON1,diabetes mellitus
+ABCC8,diabetes mellitus
+NCF1,diabetes mellitus
+CP,diabetes mellitus
+ITPR3,diabetes mellitus
+ABCC8,diabetes mellitus
+C2CD4B,diabetes mellitus
+C3,diabetes mellitus
+MNX1,diabetes mellitus
+NEUROD1,diabetes mellitus
+NEUROG3,diabetes mellitus
+SLC2A2,diabetes mellitus
+KCNJ11,diabetes mellitus
+CPT1A,diabetes mellitus
+ALPK1,diabetes mellitus
+NOS1,diabetes mellitus
+HK1,diabetes mellitus
+FAS,diabetes mellitus
+MIR130B,diabetes mellitus
+MIR222,diabetes mellitus
+ATP2A3,diabetes mellitus
+CISD2,diabetes mellitus
+MIR423,diabetes mellitus
+RELA,diabetes mellitus
+MIR483,diabetes mellitus
+CBS,diabetes mellitus
+PTF1A,diabetes mellitus
+FOXP3,diabetes mellitus
+STAT3,diabetes mellitus
+HNF1B,diabetes mellitus
+ALDH2,diabetes mellitus
+KIF1A,diabetes mellitus
+THBS2,diabetes mellitus
+HSD11B2,diabetes mellitus
+IL20,diabetes mellitus
+PPARG,diabetes mellitus
+ECE1,diabetes mellitus
+HLA-DRB5,diabetes mellitus
+MIR10B,diabetes mellitus
+MIR140,diabetes mellitus
+MIR142,diabetes mellitus
+MIR200A,diabetes mellitus
+MIR203A,diabetes mellitus
+MIR204,diabetes mellitus
+MIR214,diabetes mellitus
+MIR30A,diabetes mellitus
+MIR98,diabetes mellitus
+MIR377,diabetes mellitus
+PAX6,diabetes mellitus
+ITLN1,diabetes mellitus
+CCDC92,diabetes mellitus
+SLC19A2,diabetes mellitus
+GATA4,diabetes mellitus
+NKX2-2,diabetes mellitus
+IER3IP1,diabetes mellitus
+CTLA4,diabetes mellitus
+HLA-DRB1,diabetes mellitus
+ADRB1,diabetes mellitus
+ZFP57,diabetes mellitus
+KIF5B,diabetes mellitus
+CHRM2,diabetes mellitus
+CPT1A,diabetes mellitus
+CPT1B,diabetes mellitus
+NQO1,diabetes mellitus
+AGT,diabetes mellitus
+ESRRA,diabetes mellitus
+ACSL1,diabetes mellitus
+GPD2,diabetes mellitus
+HK1,diabetes mellitus
+HSD11B1,diabetes mellitus
+IAPP,diabetes mellitus
+ID1,diabetes mellitus
+LEPR,diabetes mellitus
+STS,diabetes mellitus
+MAP3K5,diabetes mellitus
+MFGE8,diabetes mellitus
+MMP2,diabetes mellitus
+COX2,diabetes mellitus
+ND1,diabetes mellitus
+ATF3,diabetes mellitus
+NEUROD1,diabetes mellitus
+NKX6-1,diabetes mellitus
+SERPINE1,diabetes mellitus
+PAX6,diabetes mellitus
+ACOX1,diabetes mellitus
+PDK4,diabetes mellitus
+PFKM,diabetes mellitus
+S1PR5,diabetes mellitus
+PPARA,diabetes mellitus
+PRKCA,diabetes mellitus
+PRKCE,diabetes mellitus
+GPAM,diabetes mellitus
+REN,diabetes mellitus
+S100A6,diabetes mellitus
+CCL20,diabetes mellitus
+ACOT1,diabetes mellitus
+NCF1,diabetes mellitus
+SLC9A1,diabetes mellitus
+SNAP25,diabetes mellitus
+TIMP2,diabetes mellitus
+YWHAH,diabetes mellitus
+CAV3,diabetes mellitus
+S1PR4,diabetes mellitus
+AIFM1,diabetes mellitus
+S1PR2,diabetes mellitus
+CD68,diabetes mellitus
+CHRM2,diabetes mellitus
+DDIT3,diabetes mellitus
+IL19,diabetes mellitus
+CCL20,diabetes mellitus
+AIFM1,diabetes mellitus
+FOS,diabetes mellitus
+CAVIN1,diabetes mellitus
+CAV1,diabetes mellitus
+MIR744,diabetes mellitus
+MIR885,diabetes mellitus
+MIR939,diabetes mellitus
+BCL2L11,diabetes mellitus
+MIR1249,diabetes mellitus
+MIR1296,diabetes mellitus
+MIR1307,diabetes mellitus
+MIR1306,diabetes mellitus
+MIR1228,diabetes mellitus
+MIR1226,diabetes mellitus
+MIR1260A,diabetes mellitus
+MIR1301,diabetes mellitus
+MIR1908,diabetes mellitus
+MIR2116,diabetes mellitus
+MIR3173,diabetes mellitus
+MIR1260B,diabetes mellitus
+MIR4516,diabetes mellitus
+MIR4482,diabetes mellitus
+MIR7704,diabetes mellitus
+MIR8061,diabetes mellitus
+MIR6741,diabetes mellitus
+MIR6803,diabetes mellitus
+CDO1,diabetes mellitus
+NUS1,diabetes mellitus
+TMEM155,diabetes mellitus
+CYP1A2,diabetes mellitus
+KCNU1,diabetes mellitus
+MRAS,diabetes mellitus
+HPX,diabetes mellitus
+ID1,diabetes mellitus
+MIRLET7D,diabetes mellitus
+MIR125B1,diabetes mellitus
+MIR127,diabetes mellitus
+MIR141,diabetes mellitus
+MIR181C,diabetes mellitus
+MIR195,diabetes mellitus
+MIR205,diabetes mellitus
+MIR215,diabetes mellitus
+MIR17HG,diabetes mellitus
+SMAD5,diabetes mellitus
+MAT1A,diabetes mellitus
+MIR151A,diabetes mellitus
+MIR335,diabetes mellitus
+MIR339,diabetes mellitus
+NKX6-1,diabetes mellitus
+ZC3HC1,diabetes mellitus
+MIR409,diabetes mellitus
+MIR485,diabetes mellitus
+MIR432,diabetes mellitus
+BCL2L1,diabetes mellitus
+S100A6,diabetes mellitus
+BHMT,diabetes mellitus
+MIR487B,diabetes mellitus
+MIR33B,diabetes mellitus
+MIR532,diabetes mellitus
+MIR628,diabetes mellitus
+MIR92B,diabetes mellitus
+CASP8,diabetes mellitus
+AGPAT2,diabetes mellitus
+IL2RA,diabetes mellitus
+INSR,diabetes mellitus
+ABCC4,diabetes mellitus
+SLC51B,diabetes mellitus
+SLC51A,diabetes mellitus
+HIF1A,diabetes mellitus
+SLC10A2,diabetes mellitus
+NR0B2,diabetes mellitus
+STAT3,diabetes mellitus
+HNF1B,diabetes mellitus
+CCR5,diabetes mellitus
+SH2B3,diabetes mellitus
+CASP12,diabetes mellitus
+CHRM2,diabetes mellitus
+C1QTNF6,diabetes mellitus
+CP,diabetes mellitus
+CRP,diabetes mellitus
+CTSH,diabetes mellitus
+DDIT3,diabetes mellitus
+GLIS3,diabetes mellitus
+CLEC16A,diabetes mellitus
+IL27,diabetes mellitus
+PTPN22,diabetes mellitus
+FGF21,diabetes mellitus
+IL19,diabetes mellitus
+HLA-DQA1,diabetes mellitus
+HLA-DQB1,diabetes mellitus
+HP,diabetes mellitus
+HSD11B2,diabetes mellitus
+IFNG,diabetes mellitus
+IGF1,diabetes mellitus
+IL2RA,diabetes mellitus
+IL6,diabetes mellitus
+IL10,diabetes mellitus
+ITPR3,diabetes mellitus
+KCNJ11,diabetes mellitus
+NOS1,diabetes mellitus
+NOS3,diabetes mellitus
+IL20,diabetes mellitus
+SLC29A3,diabetes mellitus
+PRKCQ,diabetes mellitus
+BACH2,diabetes mellitus
+CCL20,diabetes mellitus
+SLC11A1,diabetes mellitus
+STAT3,diabetes mellitus
+ABCC8,diabetes mellitus
+HNF1A,diabetes mellitus
+TNF,diabetes mellitus
+TYK2,diabetes mellitus
+CAT,diabetes mellitus
+AIFM1,diabetes mellitus
+CD69,diabetes mellitus
+SH2B3,diabetes mellitus
+CASP12,diabetes mellitus
+CHRM2,diabetes mellitus
+C1QTNF6,diabetes mellitus
+CP,diabetes mellitus
+CRP,diabetes mellitus
+CTSH,diabetes mellitus
+DDIT3,diabetes mellitus
+GLIS3,diabetes mellitus
+CLEC16A,diabetes mellitus
+IL27,diabetes mellitus
+PTPN22,diabetes mellitus
+FGF21,diabetes mellitus
+IL19,diabetes mellitus
+HLA-DQA1,diabetes mellitus
+HLA-DQB1,diabetes mellitus
+HLA-DRB1,diabetes mellitus
+HP,diabetes mellitus
+HSD11B2,diabetes mellitus
+IFNG,diabetes mellitus
+IGF1,diabetes mellitus
+IL2RA,diabetes mellitus
+IL6,diabetes mellitus
+IL10,diabetes mellitus
+ITPR3,diabetes mellitus
+KCNJ11,diabetes mellitus
+NOS1,diabetes mellitus
+NOS3,diabetes mellitus
+IL20,diabetes mellitus
+PAX4,diabetes mellitus
+SLC29A3,diabetes mellitus
+PRKCQ,diabetes mellitus
+BACH2,diabetes mellitus
+CCL20,diabetes mellitus
+SLC11A1,diabetes mellitus
+STAT3,diabetes mellitus
+ABCC8,diabetes mellitus
+HNF1A,diabetes mellitus
+TNF,diabetes mellitus
+TYK2,diabetes mellitus
+CAT,diabetes mellitus
+AIFM1,diabetes mellitus
+CD69,diabetes mellitus
+TPH2,depression
+DISC1,depression
+CRH,depression
+CRHR1,depression
+DRD2,depression
+NR3C1,depression
+HTR2A,depression
+IL1B,depression
+IL6,depression
+NPY,depression
+NTRK2,depression
+BDNF,depression
+S100A10,depression
+S100B,depression
+SLC6A2,depression
+SLC6A4,depression
+TPH1,depression
+CRH,depression
+NR3C1,depression
+IL6,depression
+MTHFR,depression
+BDNF,depression
+SLC6A4,depression
+GSK3B,depression
+NGF,depression
+NPY,depression
+S100A10,depression
+CHRM2,depression
+ADRA2A,depression
+DBH,depression
+DRD1,depression
+SLC6A4,depression
+CRHBP,depression
+CRHR2,depression
+PTGS2,depression
+COMT,depression
+HTR2A,depression
+IL6R,depression
+PPP1R1B,depression
+FGFR1,depression
+MORC1,depression
+S100B,depression
+HDAC5,depression
+PDE4D,depression
+TH,depression
+TPH2,depression
+DISC1,depression
+RELN,depression
+TPH2,depression
+CNR1,depression
+COMT,depression
+CREB1,depression
+CYP2D6,depression
+DRD4,depression
+ESR1,depression
+FKBP5,depression
+GAD1,depression
+DISC1,depression
+GRIN2B,depression
+HCRT,depression
+HTR1A,depression
+HTR2C,depression
+IFNG,depression
+IGF1,depression
+IDO1,depression
+AR,depression
+KCNK2,depression
+LEP,depression
+MAOA,depression
+NR3C2,depression
+MTHFR,depression
+OPRK1,depression
+OXTR,depression
+P2RX7,depression
+GAL,depression
+ABCB1,depression
+POMC,depression
+PTGS2,depression
+SLC6A3,depression
+TAC1,depression
+TNF,depression
+VEGFA,depression
+ARTN,depression
+COMT,depression
+CREB1,depression
+CRP,depression
+ACE,depression
+FKBP5,depression
+HTR1A,depression
+HTR2A,depression
+MAOA,depression
+ABCB1,depression
+SLC6A2,depression
+TNF,depression
+TPH1,depression
+CACNA1C,depression
+IL1A,depression
+IL18,depression
+REN,depression
+CLOCK,depression
+GRIA1,depression
+CXCL8,depression
+CYP2D6,depression
+PCLO,depression
+IL1B,depression
+CYP2C19,depression
+DRD3,depression
+PCLO,depression
+COX2,depression
+CACNA1C,depression
+BICC1,depression
+DRD3,depression
+GNB3,depression
+HTR2C,depression
+GFAP,depression
+HP,depression
+HTR1B,depression
+ARNTL,depression
+PDE4A,depression
+SLC18A2,depression
+TNFRSF1A,depression
+CRHR1,depression
+DRD2,depression
+GSK3B,depression
+NR3C2,depression
+CNR2,depression
+AKT1,depression
+HTR3A,depression
+MAOB,depression
+NOS2,depression
+NOS3,depression
+PDE4B,depression
+MAPK3,depression
+BRCA1,depression
+FTO,depression
+PER2,depression
+HTR1A,depression
+CYP2C19,depression
+SLC6A15,depression
+CLOCK,depression
+BDNF,depression
+CHRNA4,depression
+GNB3,depression
+TNFRSF1B,depression
+TRH,depression
+VGF,depression
+HOMER1,depression
+CARTPT,depression
+CNR1,depression
+FKBP4,depression
+GDNF,depression
+DAOA,depression
+GRM5,depression
+GRM7,depression
+HP,depression
+MAOB,depression
+NTRK2,depression
+POMC,depression
+S100B,depression
+DTNBP1,depression
+SLC6A4,depression
+DPYSL2,depression
+AGT,depression
+DUSP1,depression
+FGFR1,depression
+GABRB3,depression
+GAP43,depression
+GLO1,depression
+MCHR1,depression
+GRIN2A,depression
+GRM7,depression
+HDAC2,depression
+NRG1,depression
+HSD11B1,depression
+HTR4,depression
+HTR7,depression
+APP,depression
+APRT,depression
+ATXN3,depression
+NCAM1,depression
+OPRM1,depression
+PDYN,depression
+RELN,depression
+PSEN1,depression
+RORA,depression
+SLC1A2,depression
+DTNBP1,depression
+PER3,depression
+PDLIM5,depression
+CYP2C9,depression
+DBH,depression
+GAD1,depression
+HTR1B,depression
+IFNG,depression
+KCNK2,depression
+OXTR,depression
+REN,depression
+SST,depression
+TDO2,depression
+SLC6A4,depression
+DTNBP1,depression
+HTR1A,depression
+CDKN2A,depression
+CHAT,depression
+ADCY5,depression
+ADCY7,depression
+CNTF,depression
+CRY2,depression
+ANKK1,depression
+DAOA,depression
+GH1,depression
+GPX1,depression
+GRIA3,depression
+GSTM1,depression
+GTS,depression
+HTT,depression
+STMN1,depression
+MTR,depression
+OXT,depression
+PDE1B,depression
+PMCH,depression
+RAC1,depression
+NPS,depression
+SLC18A1,depression
+SOD1,depression
+TACR1,depression
+TTR,depression
+UCN,depression
+WFS1,depression
+CAMK2A,depression
+TIMELESS,depression
+NRXN1,depression
+HDAC9,depression
+MED12,depression
+HTR2A,depression
+MIR1202,depression
+ADCY7,depression
+DCANP1,depression
+CUX1,depression
+DGKH,depression
+DLG3,depression
+DLG4,depression
+DRD4,depression
+EGF,depression
+ESR2,depression
+FGF2,depression
+MYT1L,depression
+GRIA2,depression
+GRIK4,depression
+EHD3,depression
+APAF1,depression
+HTR3A,depression
+GDE1,depression
+PTPRR,depression
+SAT1,depression
+LHPP,depression
+SNAP25,depression
+TRH,depression
+HTR3B,depression
+HOMER1,depression
+IKBKE,depression
+TTC9B,depression
+HP1BP3,depression
+DISC1,depression
+GSK3B,depression
+NTRK2,depression
+CACNA1C,depression
+HDAC6,depression
+CDH13,depression
+DEAF1,depression
+CPLX2,depression
+CPLX1,depression
+ADCY8,depression
+ADCYAP1,depression
+CMKLR1,depression
+CRY1,depression
+ADRB1,depression
+DLG4,depression
+DPP4,depression
+EGR3,depression
+ERBB3,depression
+WWC1,depression
+FOLH1,depression
+GABRA6,depression
+GLUL,depression
+DAOA-AS1,depression
+GRIK3,depression
+GYPE,depression
+HIF1A,depression
+HCN1,depression
+AQP4,depression
+KCNJ6,depression
+NPSR1,depression
+LDHA,depression
+LTA4H,depression
+M6PR,depression
+MC1R,depression
+MC4R,depression
+ASMT,depression
+ATF3,depression
+NGFR,depression
+NTS,depression
+OAS2,depression
+PEX5L,depression
+PFKFB3,depression
+PNOC,depression
+SLCO1C1,depression
+SLC29A3,depression
+MAPK8,depression
+PYY,depression
+RNF123,depression
+SOD2,depression
+SYN1,depression
+TLE1,depression
+CALM2,depression
+HTR3B,depression
+LGI1,depression
+HDAC4,depression
+CRH,depression
+POMC,depression
+DRD2,depression
+S100A10,depression
+TPH1,depression
+HDAC5,depression
+TSNAX-DISC1,depression
+CDH7,depression
+RNF41,depression
+AKAP8,depression
+TOMM40,depression
+DEAF1,depression
+ADCY5,depression
+ACSM1,depression
+CRHBP,depression
+CSF2RB,depression
+CTLA4,depression
+CTNND2,depression
+FREM3,depression
+DRD5,depression
+EGFR,depression
+EMP1,depression
+CMYA5,depression
+ERBB3,depression
+PLCB1,depression
+FMR1,depression
+CNTNAP2,depression
+GFAP,depression
+GJA1,depression
+DISC2,depression
+GRM1,depression
+HSPA1A,depression
+HSPA1B,depression
+IFNA1,depression
+APRT,depression
+IL2RA,depression
+ITIH1,depression
+KPNA3,depression
+LRP1,depression
+LSAMP,depression
+M6PR,depression
+ARRB1,depression
+ARSA,depression
+MDM4,depression
+MIF,depression
+NDUFV2,depression
+NEFL,depression
+NOS1,depression
+NTF3,depression
+NTRK3,depression
+NR4A2,depression
+OAS2,depression
+SERPINE1,depression
+PAWR,depression
+NTM,depression
+PCNT,depression
+GMIP,depression
+PDYN,depression
+ACP1,depression
+ATP7B,depression
+PON1,depression
+DDIT4,depression
+CC2D1A,depression
+AVP,depression
+MCTP2,depression
+MAP2K1,depression
+PTX3,depression
+CCND1,depression
+PROK2,depression
+BCL9,depression
+BCR,depression
+BDKRB2,depression
+CCL2,depression
+NPAS3,depression
+SGK1,depression
+PINK1,depression
+SLC1A6,depression
+BMP7,depression
+SLIT3,depression
+TEF,depression
+TFCP2,depression
+TH,depression
+LRP8,depression
+REEP5,depression
+CAT,depression
+KMO,depression
+PEA15,depression
+KALRN,depression
+ARTN,depression
+FOXP2,depression
+QKI,depression
+GABBR2,depression
+MED12,depression
+HTR1A,depression
+DRD1,depression
+DRD2,depression
+TOR1A,depression
+SLC5A7,depression
+S100B,depression
+SLC6A2,depression
+TH,depression
+HTR2A,depression
+SLC6A3,depression
+SLC18A2,depression
+TPH1,depression
+SLC6A4,depression
+ESR2,depression
+MTR,depression
+SLC6A4,depression
+FKBP5,depression
+MAOA,depression
+ATXN1,depression
+TPPP,depression
+HDAC5,depression
+ADCY2,depression
+CPLX2,depression
+CPLX1,depression
+AKR1C4,depression
+ADD3,depression
+TPH2,depression
+NCAN,depression
+AANAT,depression
+GRK3,depression
+DRD1,depression
+DRD5,depression
+THSD7A,depression
+NTNG1,depression
+SHANK2,depression
+RIMS1,depression
+SSBP2,depression
+GAD1,depression
+GAD2,depression
+TENM4,depression
+NPAS4,depression
+ANK3,depression
+GRIK2,depression
+GRIK4,depression
+GRIN2A,depression
+NR3C1,depression
+GSK3A,depression
+INS,depression
+ITIH1,depression
+MAOA,depression
+MTHFR,depression
+NCAM1,depression
+NDUFV2,depression
+NTRK1,depression
+PC,depression
+PLEKHO1,depression
+PDE4B,depression
+MRPS33,depression
+SERPINA1,depression
+POMC,depression
+POU3F2,depression
+ZCCHC2,depression
+PACS1,depression
+RELN,depression
+FSTL5,depression
+STARD9,depression
+PVALB,depression
+RPS6KA2,depression
+SCN2A,depression
+SLC5A3,depression
+SNAP25,depression
+SP4,depression
+SRPK2,depression
+STK4,depression
+TAC1,depression
+TACR1,depression
+TRPC3,depression
+TRPM2,depression
+TSHB,depression
+CACNA1D,depression
+LMAN2L,depression
+NTNG2,depression
+DIXDC1,depression
+BHLHE40,depression
+KMO,depression
+FADS2,depression
+CD47,depression
+ZNF592,depression
+TRANK1,depression
+CHRNA2,depression
+CHRNB3,depression
+CSMD2,depression
+OR7D4,depression
+AANAT,depression
+DGKB,depression
+DUSP4,depression
+DUSP6,depression
+A2M,depression
+FGFR2,depression
+ALK,depression
+GABRA3,depression
+FGF20,depression
+DKK4,depression
+GRID1,depression
+GRN,depression
+GRM1,depression
+GRPR,depression
+GSTT1,depression
+HCRTR1,depression
+IMPA2,depression
+LIF,depression
+ARRB2,depression
+ATF4,depression
+NEFM,depression
+ATP1A3,depression
+NPAS2,depression
+ATP2A2,depression
+PENK,depression
+FEV,depression
+PPP3CC,depression
+PRKCI,depression
+BAG1,depression
+SFRP1,depression
+SLC1A1,depression
+SLC6A1,depression
+SNAP25,depression
+SRD5A1,depression
+SERPINA6,depression
+FGF17,depression
+SGCE,depression
+CHRNA6,depression
+TBX19,depression
+ARHGEF10,depression
+PDCD6,depression
+CNR2,depression
+ADORA2A,depression
+CREBBP,depression
+CSF3,depression
+DRD5,depression
+ALB,depression
+ACSL4,depression
+FGF2,depression
+FGFR1,depression
+CADM1,depression
+FTH1,depression
+FTL,depression
+GLO1,depression
+GNAS,depression
+GNB1,depression
+NR3C1,depression
+GSK3A,depression
+GSK3B,depression
+HTR7,depression
+IFNA2,depression
+APP,depression
+IL6,depression
+KCNK2,depression
+MIF,depression
+MTHFR,depression
+NOS1,depression
+NPY,depression
+NPY1R,depression
+PDCD2,depression
+GHRL,depression
+PON1,depression
+RELN,depression
+PTGS2,depression
+BDNF,depression
+S100A10,depression
+SELP,depression
+SLC6A4,depression
+SNAP25,depression
+SOD1,depression
+TG,depression
+DIXDC1,depression
+IFI44L,depression
+TPH2,depression
+CRHR1,depression
+FREM3,depression
+EDN1,depression
+FKBP5,depression
+IFI6,depression
+GAD1,depression
+GAD2,depression
+GALR1,depression
+NR4A1,depression
+HTR2A,depression
+IL2,depression
+MPO,depression
+GAL,depression
+RELN,depression
+SLC6A4,depression
+SOD2,depression
+TAC1,depression
+XDH,depression
+CACNA1C,depression
+CAT,depression
+GALR3,depression
+GALR2,depression
+ISG15,depression
+HDAC5,depression
+HSPA1A,depression
+HSPA1B,depression
+HSPA1L,depression
+KYAT3,depression
+CDKN2A,depression
+HPSE,depression
+IL24,depression
+UCN3,depression
+CNP,depression
+CNR2,depression
+ADORA2A,depression
+CSF3,depression
+PRIMA1,depression
+ADRA1A,depression
+DDC,depression
+DLG2,depression
+EIF4B,depression
+ENPEP,depression
+ALB,depression
+ACSL4,depression
+CADM1,depression
+MTOR,depression
+FTH1,depression
+FTL,depression
+ABI3BP,depression
+FOXD3,depression
+GLO1,depression
+GNB1,depression
+ANPEP,depression
+GSK3A,depression
+TBX21,depression
+HIF1A,depression
+HLF,depression
+HSPA1L,depression
+HSP90AA1,depression
+HTR7,depression
+IFNA2,depression
+IL11,depression
+CXCL10,depression
+INS,depression
+IRF7,depression
+KDR,depression
+LDHA,depression
+MIR30E,depression
+MAP2,depression
+MMP8,depression
+NCAM1,depression
+NDUFV1,depression
+NELL1,depression
+NPY1R,depression
+OXT,depression
+IL20,depression
+PDE11A,depression
+TLR7,depression
+SRRT,depression
+GHRL,depression
+PFKFB3,depression
+PLG,depression
+PRKCB,depression
+GLT8D1,depression
+KYAT3,depression
+PSMB4,depression
+SLC17A6,depression
+SLC5A7,depression
+CCL24,depression
+SELP,depression
+RAPH1,depression
+SLC6A13,depression
+SOD1,depression
+SOX9,depression
+SSTR5,depression
+VAMP2,depression
+TERT,depression
+TG,depression
+TYK2,depression
+ZBTB16,depression
+CAMK2A,depression
+DIXDC1,depression
+GALR2,depression
+PROM1,depression
+CCKAR,depression
+CD34,depression
+SEC24C,depression
+EDEM1,depression
+HDAC9,depression
+RAPGEF5,depression
+MTHFR,depression
+OPRM1,depression
+PER2,depression
+DRD3,depression
+FBLN5,depression
+IGF1R,depression
+MAPT,depression
+MECP2,depression
+OPRM1,depression
+PDYN,depression
+PLAT,depression
+IFT80,depression
+TBCD,depression
+TRH,depression
+CACNA1S,depression
+MGME1,depression
+SLC23A1,depression
+MAOA,depression
+TPH2,depression
+CNR2,depression
+ADORA2A,depression
+CRH,depression
+CSF3,depression
+DRD5,depression
+ALB,depression
+ACSL4,depression
+FGF2,depression
+FGFR1,depression
+CADM1,depression
+FTH1,depression
+FTL,depression
+DISC1,depression
+GLO1,depression
+GNB1,depression
+NR3C1,depression
+GSK3A,depression
+GSK3B,depression
+HTR7,depression
+IFNA2,depression
+IL6,depression
+KCNK2,depression
+MIF,depression
+MTHFR,depression
+NOS1,depression
+NPY,depression
+NPY1R,depression
+GHRL,depression
+POMC,depression
+PON1,depression
+RELN,depression
+PTGS2,depression
+BDNF,depression
+S100A10,depression
+SELP,depression
+SLC6A4,depression
+SNAP25,depression
+SOD1,depression
+TG,depression
+DIXDC1,depression
+TAS2R38,depression
+ACE,depression
+TGFB1,depression
+IDO1,depression
+MTOR,depression
+HTR1A,depression
+CALM2,depression
+ITGAL,depression
+NPY,depression
+PRNP,depression
+ACTA2,moyamoya disease
+GUCY1A1,moyamoya disease
+ACTA2,moyamoya disease
+RNF213,moyamoya disease
+RNF213,moyamoya disease
+RNF213,moyamoya disease
+ACTA2,moyamoya disease
+BRCC3,moyamoya disease
+ELN,moyamoya disease
+HLA-DRB1,moyamoya disease
+HLA-DQB1,moyamoya disease
+JAG1,moyamoya disease
+SAMHD1,moyamoya disease
+GLA,moyamoya disease
+HLA-B,moyamoya disease
+ABCC6,moyamoya disease
+NF1,moyamoya disease
+MYMY1,moyamoya disease
+PCNT,moyamoya disease
+ATP7A,moyamoya disease
+HTRA1,moyamoya disease
+SLC2A10,moyamoya disease
+MYMY3,moyamoya disease
+BRCC3,moyamoya disease
+ASXL1,myelodysplastic syndrome
+SF3B1,myelodysplastic syndrome
+GATA2,myelodysplastic syndrome
+TET2,myelodysplastic syndrome
+U2AF1,myelodysplastic syndrome
+SBDS,myelodysplastic syndrome
+ZRSR2,myelodysplastic syndrome
+SETBP1,myelodysplastic syndrome
+FANCB,myelodysplastic syndrome
+MPL,myelodysplastic syndrome
+PTPN11,myelodysplastic syndrome
+SRSF2,myelodysplastic syndrome
+TP53,myelodysplastic syndrome
+RUNX1,myelodysplastic syndrome
+ATRX,myelodysplastic syndrome
+RAD51,myelodysplastic syndrome
+XRCC2,myelodysplastic syndrome
+CALR,myelodysplastic syndrome
+SH2B3,myelodysplastic syndrome
+ERCC4,myelodysplastic syndrome
+FANCD2,myelodysplastic syndrome
+BRCA2,myelodysplastic syndrome
+RPS14,myelodysplastic syndrome
+CDKN2B,myelodysplastic syndrome
+MAD2L2,myelodysplastic syndrome
+CEBPA,myelodysplastic syndrome
+CSF1R,myelodysplastic syndrome
+CSF3R,myelodysplastic syndrome
+EPO,myelodysplastic syndrome
+MECOM,myelodysplastic syndrome
+EZH2,myelodysplastic syndrome
+FANCA,myelodysplastic syndrome
+FANCC,myelodysplastic syndrome
+FANCE,myelodysplastic syndrome
+FANCF,myelodysplastic syndrome
+FANCG,myelodysplastic syndrome
+GATA1,myelodysplastic syndrome
+UBE2T,myelodysplastic syndrome
+FANCL,myelodysplastic syndrome
+FANCI,myelodysplastic syndrome
+FANCM,myelodysplastic syndrome
+RAD51C,myelodysplastic syndrome
+BRCA1,myelodysplastic syndrome
+PALB2,myelodysplastic syndrome
+BRIP1,myelodysplastic syndrome
+SLX4,myelodysplastic syndrome
+CBL,myelodysplastic syndrome
+PLCB1,myelodysplastic syndrome
+HFE,myelodysplastic syndrome
+KRAS,myelodysplastic syndrome
+MYC,myelodysplastic syndrome
+BMI1,myelodysplastic syndrome
+DLK1,myelodysplastic syndrome
+SAMD9,myelodysplastic syndrome
+DAPK1,myelodysplastic syndrome
+CTNNA1,myelodysplastic syndrome
+CUX1,myelodysplastic syndrome
+ARHGAP26,myelodysplastic syndrome
+TLR2,myelodysplastic syndrome
+CFLAR,myelodysplastic syndrome
+STAG2,myelodysplastic syndrome
+ACSL6,myelodysplastic syndrome
+HDAC1,myelodysplastic syndrome
+LYL1,myelodysplastic syndrome
+CTC1,myelodysplastic syndrome
+SMPD3,myelodysplastic syndrome
+BLM,myelodysplastic syndrome
+SPHK1,myelodysplastic syndrome
